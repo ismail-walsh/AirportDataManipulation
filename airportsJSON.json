@@ -1,0 +1,7113 @@
+[{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1c0"
+  },
+  "airport_ident": "Cark",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1c1"
+  },
+  "airport_ident": "EG03",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1c2"
+  },
+  "airport_ident": "EG19",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1c3"
+  },
+  "airport_ident": "EG34",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1c4"
+  },
+  "airport_ident": "EG3L",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1c5"
+  },
+  "airport_ident": "EG64",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1c6"
+  },
+  "airport_ident": "EG74",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1c7"
+  },
+  "airport_ident": "EGAA",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1c8"
+  },
+  "airport_ident": "EGAB",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1c9"
+  },
+  "airport_ident": "EGAC",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1ca"
+  },
+  "airport_ident": "EGAD",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1cb"
+  },
+  "airport_ident": "EGAE",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1cc"
+  },
+  "airport_ident": "EGBB",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1cd"
+  },
+  "airport_ident": "EGBD",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1ce"
+  },
+  "airport_ident": "EGBE",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1cf"
+  },
+  "airport_ident": "EGBF",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1d0"
+  },
+  "airport_ident": "EGBG",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1d1"
+  },
+  "airport_ident": "EGBJ",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1d2"
+  },
+  "airport_ident": "EGBK",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1d3"
+  },
+  "airport_ident": "EGBL",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1d4"
+  },
+  "airport_ident": "EGBM",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1d5"
+  },
+  "airport_ident": "EGBN",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1d6"
+  },
+  "airport_ident": "EGBO",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1d7"
+  },
+  "airport_ident": "EGBP",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1d8"
+  },
+  "airport_ident": "EGBR",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1d9"
+  },
+  "airport_ident": "EGBS",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1da"
+  },
+  "airport_ident": "EGBT",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1db"
+  },
+  "airport_ident": "EGBW",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1dc"
+  },
+  "airport_ident": "EGCA",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1dd"
+  },
+  "airport_ident": "EGCB",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1de"
+  },
+  "airport_ident": "EGCC",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1df"
+  },
+  "airport_ident": "EGCF",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1e0"
+  },
+  "airport_ident": "EGCG",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1e1"
+  },
+  "airport_ident": "EGCJ",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1e2"
+  },
+  "airport_ident": "EGCK",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1e3"
+  },
+  "airport_ident": "EGCL",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1e4"
+  },
+  "airport_ident": "EGCN",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1e5"
+  },
+  "airport_ident": "EGCS",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1e6"
+  },
+  "airport_ident": "EGCT",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1e7"
+  },
+  "airport_ident": "EGCV",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1e8"
+  },
+  "airport_ident": "EGCW",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1e9"
+  },
+  "airport_ident": "EGDC",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1ea"
+  },
+  "airport_ident": "EGDD",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1eb"
+  },
+  "airport_ident": "EGDJ",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1ec"
+  },
+  "airport_ident": "EGDM",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1ed"
+  },
+  "airport_ident": "EGDN",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1ee"
+  },
+  "airport_ident": "EGDO",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1ef"
+  },
+  "airport_ident": "EGDR",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1f0"
+  },
+  "airport_ident": "EGDV",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1f1"
+  },
+  "airport_ident": "EGDW",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1f2"
+  },
+  "airport_ident": "EGDX",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1f3"
+  },
+  "airport_ident": "EGDY",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1f4"
+  },
+  "airport_ident": "EGEC",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1f5"
+  },
+  "airport_ident": "EGED",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1f6"
+  },
+  "airport_ident": "EGEF",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1f7"
+  },
+  "airport_ident": "EGEH",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1f8"
+  },
+  "airport_ident": "EGEL",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1f9"
+  },
+  "airport_ident": "EGEN",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1fa"
+  },
+  "airport_ident": "EGEO",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1fb"
+  },
+  "airport_ident": "EGEP",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1fc"
+  },
+  "airport_ident": "EGER",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1fd"
+  },
+  "airport_ident": "EGES",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1fe"
+  },
+  "airport_ident": "EGET",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca1ff"
+  },
+  "airport_ident": "EGEW",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca200"
+  },
+  "airport_ident": "EGEY",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca201"
+  },
+  "airport_ident": "EGFA",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca202"
+  },
+  "airport_ident": "EGFE",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca203"
+  },
+  "airport_ident": "EGFF",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca204"
+  },
+  "airport_ident": "EGFH",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca205"
+  },
+  "airport_ident": "EGFP",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca206"
+  },
+  "airport_ident": "EGGD",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca207"
+  },
+  "airport_ident": "EGGP",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca208"
+  },
+  "airport_ident": "EGGW",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca209"
+  },
+  "airport_ident": "EGHA",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca20a"
+  },
+  "airport_ident": "EGHC",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca20b"
+  },
+  "airport_ident": "EGHE",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca20c"
+  },
+  "airport_ident": "EGHF",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca20d"
+  },
+  "airport_ident": "EGHG",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca20e"
+  },
+  "airport_ident": "EGHH",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca20f"
+  },
+  "airport_ident": "EGHI",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca210"
+  },
+  "airport_ident": "EGHJ",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca211"
+  },
+  "airport_ident": "EGHL",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca212"
+  },
+  "airport_ident": "EGHN",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca213"
+  },
+  "airport_ident": "EGHO",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca214"
+  },
+  "airport_ident": "EGHP",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca215"
+  },
+  "airport_ident": "EGHQ",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca216"
+  },
+  "airport_ident": "EGHR",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca217"
+  },
+  "airport_ident": "EGHS",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca218"
+  },
+  "airport_ident": "EGHU",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca219"
+  },
+  "airport_ident": "EGHY",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca21a"
+  },
+  "airport_ident": "EGKA",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca21b"
+  },
+  "airport_ident": "EGKB",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca21c"
+  },
+  "airport_ident": "EGKC",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca21d"
+  },
+  "airport_ident": "EGKE",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca21e"
+  },
+  "airport_ident": "EGKH",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca21f"
+  },
+  "airport_ident": "EGKK",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca220"
+  },
+  "airport_ident": "EGKL",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca221"
+  },
+  "airport_ident": "EGKR",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca222"
+  },
+  "airport_ident": "EGLA",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca223"
+  },
+  "airport_ident": "EGLC",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca224"
+  },
+  "airport_ident": "EGLD",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca225"
+  },
+  "airport_ident": "EGLF",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca226"
+  },
+  "airport_ident": "EGLJ",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca227"
+  },
+  "airport_ident": "EGLK",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca228"
+  },
+  "airport_ident": "EGLL",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca229"
+  },
+  "airport_ident": "EGLM",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca22a"
+  },
+  "airport_ident": "EGLP",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca22b"
+  },
+  "airport_ident": "EGMA",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca22c"
+  },
+  "airport_ident": "EGMC",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca22d"
+  },
+  "airport_ident": "EGMD",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca22e"
+  },
+  "airport_ident": "EGMF",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca22f"
+  },
+  "airport_ident": "EGMJ",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca230"
+  },
+  "airport_ident": "EGML",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca231"
+  },
+  "airport_ident": "EGMT",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca232"
+  },
+  "airport_ident": "EGNC",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca233"
+  },
+  "airport_ident": "EGND",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca234"
+  },
+  "airport_ident": "EGNE",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca235"
+  },
+  "airport_ident": "EGNF",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca236"
+  },
+  "airport_ident": "EGNG",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca237"
+  },
+  "airport_ident": "EGNH",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca238"
+  },
+  "airport_ident": "EGNI",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca239"
+  },
+  "airport_ident": "EGNJ",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca23a"
+  },
+  "airport_ident": "EGNL",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca23b"
+  },
+  "airport_ident": "EGNM",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca23c"
+  },
+  "airport_ident": "EGNO",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca23d"
+  },
+  "airport_ident": "EGNR",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca23e"
+  },
+  "airport_ident": "EGNT",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca23f"
+  },
+  "airport_ident": "EGNU",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca240"
+  },
+  "airport_ident": "EGNV",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca241"
+  },
+  "airport_ident": "EGNW",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca242"
+  },
+  "airport_ident": "EGNX",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca243"
+  },
+  "airport_ident": "EGNY",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca244"
+  },
+  "airport_ident": "EGOD",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca245"
+  },
+  "airport_ident": "EGOE",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca246"
+  },
+  "airport_ident": "EGOM",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca247"
+  },
+  "airport_ident": "EGOQ",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca248"
+  },
+  "airport_ident": "EGOS",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca249"
+  },
+  "airport_ident": "EGOV",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca24a"
+  },
+  "airport_ident": "EGOW",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca24b"
+  },
+  "airport_ident": "EGPA",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca24c"
+  },
+  "airport_ident": "EGPB",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca24d"
+  },
+  "airport_ident": "EGPC",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca24e"
+  },
+  "airport_ident": "EGPD",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca24f"
+  },
+  "airport_ident": "EGPE",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca250"
+  },
+  "airport_ident": "EGPF",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca251"
+  },
+  "airport_ident": "EGPG",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca252"
+  },
+  "airport_ident": "EGPH",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca253"
+  },
+  "airport_ident": "EGPI",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca254"
+  },
+  "airport_ident": "EGPJ",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca255"
+  },
+  "airport_ident": "EGPK",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca256"
+  },
+  "airport_ident": "EGPL",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca257"
+  },
+  "airport_ident": "EGPM",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca258"
+  },
+  "airport_ident": "EGPN",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca259"
+  },
+  "airport_ident": "EGPO",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca25a"
+  },
+  "airport_ident": "EGPR",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca25b"
+  },
+  "airport_ident": "EGPT",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca25c"
+  },
+  "airport_ident": "EGPU",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca25d"
+  },
+  "airport_ident": "EGPW",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca25e"
+  },
+  "airport_ident": "EGQK",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca25f"
+  },
+  "airport_ident": "EGQL",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca260"
+  },
+  "airport_ident": "EGQS",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca261"
+  },
+  "airport_ident": "EGSA",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca262"
+  },
+  "airport_ident": "EGSC",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca263"
+  },
+  "airport_ident": "EGSF",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca264"
+  },
+  "airport_ident": "EGSG",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca265"
+  },
+  "airport_ident": "EGSH",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca266"
+  },
+  "airport_ident": "EGSI",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca267"
+  },
+  "airport_ident": "EGSJ",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca268"
+  },
+  "airport_ident": "EGSL",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca269"
+  },
+  "airport_ident": "EGSM",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca26a"
+  },
+  "airport_ident": "EGSN",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca26b"
+  },
+  "airport_ident": "EGSO",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca26c"
+  },
+  "airport_ident": "EGSP",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca26d"
+  },
+  "airport_ident": "EGSQ",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca26e"
+  },
+  "airport_ident": "EGSR",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca26f"
+  },
+  "airport_ident": "EGSS",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca270"
+  },
+  "airport_ident": "EGST",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca271"
+  },
+  "airport_ident": "EGSU",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca272"
+  },
+  "airport_ident": "EGSV",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca273"
+  },
+  "airport_ident": "EGSW",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca274"
+  },
+  "airport_ident": "EGSX",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca275"
+  },
+  "airport_ident": "EGTB",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca276"
+  },
+  "airport_ident": "EGTC",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca277"
+  },
+  "airport_ident": "EGTD",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca278"
+  },
+  "airport_ident": "EGTE",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca279"
+  },
+  "airport_ident": "EGTF",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca27a"
+  },
+  "airport_ident": "EGTH",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca27b"
+  },
+  "airport_ident": "EGTK",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca27c"
+  },
+  "airport_ident": "EGTO",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca27d"
+  },
+  "airport_ident": "EGTP",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca27e"
+  },
+  "airport_ident": "EGTR",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca27f"
+  },
+  "airport_ident": "EGTU",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca280"
+  },
+  "airport_ident": "EGTW",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca281"
+  },
+  "airport_ident": "EGUB",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca282"
+  },
+  "airport_ident": "EGUD",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca283"
+  },
+  "airport_ident": "EGUL",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca284"
+  },
+  "airport_ident": "EGUN",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca285"
+  },
+  "airport_ident": "EGUP",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca286"
+  },
+  "airport_ident": "EGUW",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca287"
+  },
+  "airport_ident": "EGUY",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca288"
+  },
+  "airport_ident": "EGVA",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca289"
+  },
+  "airport_ident": "EGVN",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca28a"
+  },
+  "airport_ident": "EGVO",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca28b"
+  },
+  "airport_ident": "EGVP",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca28c"
+  },
+  "airport_ident": "EGVT",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca28d"
+  },
+  "airport_ident": "EGWC",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca28e"
+  },
+  "airport_ident": "EGWE",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca28f"
+  },
+  "airport_ident": "EGWN",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca290"
+  },
+  "airport_ident": "EGWU",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca291"
+  },
+  "airport_ident": "EGXC",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca292"
+  },
+  "airport_ident": "EGXD",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca293"
+  },
+  "airport_ident": "EGXE",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca294"
+  },
+  "airport_ident": "EGXG",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca295"
+  },
+  "airport_ident": "EGXH",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca296"
+  },
+  "airport_ident": "EGXP",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca297"
+  },
+  "airport_ident": "EGXT",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca298"
+  },
+  "airport_ident": "EGXU",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca299"
+  },
+  "airport_ident": "EGXW",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca29a"
+  },
+  "airport_ident": "EGXY",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca29b"
+  },
+  "airport_ident": "EGXZ",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca29c"
+  },
+  "airport_ident": "EGYD",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca29d"
+  },
+  "airport_ident": "EGYE",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca29e"
+  },
+  "airport_ident": "EGYI",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca29f"
+  },
+  "airport_ident": "EGYM",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2a0"
+  },
+  "airport_ident": "EGYO",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2a1"
+  },
+  "airport_ident": "EGZL",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2a2"
+  },
+  "airport_ident": "EGZV",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2a3"
+  },
+  "airport_ident": "FEA",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2a4"
+  },
+  "airport_ident": "GB-0002",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2a5"
+  },
+  "airport_ident": "GB-0005",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2a6"
+  },
+  "airport_ident": "GB-0006",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2a7"
+  },
+  "airport_ident": "GB-0007",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2a8"
+  },
+  "airport_ident": "GB-0008",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2a9"
+  },
+  "airport_ident": "GB-0009",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2aa"
+  },
+  "airport_ident": "GB-0011",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2ab"
+  },
+  "airport_ident": "GB-0013",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2ac"
+  },
+  "airport_ident": "GB-0014",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2ad"
+  },
+  "airport_ident": "GB-0015",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2ae"
+  },
+  "airport_ident": "GB-0016",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2af"
+  },
+  "airport_ident": "GB-0017",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2b0"
+  },
+  "airport_ident": "GB-0018",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2b1"
+  },
+  "airport_ident": "GB-0022",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2b2"
+  },
+  "airport_ident": "GB-0023",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2b3"
+  },
+  "airport_ident": "GB-0024",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2b4"
+  },
+  "airport_ident": "GB-0025",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2b5"
+  },
+  "airport_ident": "GB-0026",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2b6"
+  },
+  "airport_ident": "GB-0027",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2b7"
+  },
+  "airport_ident": "GB-0029",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2b8"
+  },
+  "airport_ident": "GB-0030",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2b9"
+  },
+  "airport_ident": "GB-0031",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2ba"
+  },
+  "airport_ident": "GB-0032",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2bb"
+  },
+  "airport_ident": "GB-0033",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2bc"
+  },
+  "airport_ident": "GB-0034",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2bd"
+  },
+  "airport_ident": "GB-0035",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2be"
+  },
+  "airport_ident": "GB-0036",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2bf"
+  },
+  "airport_ident": "GB-0037",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2c0"
+  },
+  "airport_ident": "GB-0038",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2c1"
+  },
+  "airport_ident": "GB-0042",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2c2"
+  },
+  "airport_ident": "GB-0044",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2c3"
+  },
+  "airport_ident": "GB-0045",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2c4"
+  },
+  "airport_ident": "GB-0046",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2c5"
+  },
+  "airport_ident": "GB-0047",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2c6"
+  },
+  "airport_ident": "GB-0048",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2c7"
+  },
+  "airport_ident": "GB-0049",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2c8"
+  },
+  "airport_ident": "GB-0050",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2c9"
+  },
+  "airport_ident": "GB-0051",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2ca"
+  },
+  "airport_ident": "GB-0052",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2cb"
+  },
+  "airport_ident": "GB-0053",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2cc"
+  },
+  "airport_ident": "GB-0054",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2cd"
+  },
+  "airport_ident": "GB-0055",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2ce"
+  },
+  "airport_ident": "GB-0056",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2cf"
+  },
+  "airport_ident": "GB-0057",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2d0"
+  },
+  "airport_ident": "GB-0058",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2d1"
+  },
+  "airport_ident": "GB-0059",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2d2"
+  },
+  "airport_ident": "GB-0060",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2d3"
+  },
+  "airport_ident": "GB-0062",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2d4"
+  },
+  "airport_ident": "GB-0063",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2d5"
+  },
+  "airport_ident": "GB-0064",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2d6"
+  },
+  "airport_ident": "GB-0065",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2d7"
+  },
+  "airport_ident": "GB-0066",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2d8"
+  },
+  "airport_ident": "GB-0068",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2d9"
+  },
+  "airport_ident": "GB-0069",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2da"
+  },
+  "airport_ident": "GB-0071",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2db"
+  },
+  "airport_ident": "GB-0072",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2dc"
+  },
+  "airport_ident": "GB-0073",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2dd"
+  },
+  "airport_ident": "GB-0075",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2de"
+  },
+  "airport_ident": "GB-0076",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2df"
+  },
+  "airport_ident": "GB-0077",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2e0"
+  },
+  "airport_ident": "GB-0078",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2e1"
+  },
+  "airport_ident": "GB-0079",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2e2"
+  },
+  "airport_ident": "GB-0093",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2e3"
+  },
+  "airport_ident": "GB-0127",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2e4"
+  },
+  "airport_ident": "GB-0146",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2e5"
+  },
+  "airport_ident": "GB-0150",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2e6"
+  },
+  "airport_ident": "GB-0151",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2e7"
+  },
+  "airport_ident": "GB-0153",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2e8"
+  },
+  "airport_ident": "GB-0157",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2e9"
+  },
+  "airport_ident": "GB-0166",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2ea"
+  },
+  "airport_ident": "GB-0168",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2eb"
+  },
+  "airport_ident": "GB-0169",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2ec"
+  },
+  "airport_ident": "GB-0175",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2ed"
+  },
+  "airport_ident": "GB-0176",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2ee"
+  },
+  "airport_ident": "GB-0177",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2ef"
+  },
+  "airport_ident": "GB-0179",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2f0"
+  },
+  "airport_ident": "GB-0180",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2f1"
+  },
+  "airport_ident": "GB-0181",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2f2"
+  },
+  "airport_ident": "GB-0182",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2f3"
+  },
+  "airport_ident": "GB-0183",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2f4"
+  },
+  "airport_ident": "GB-0184",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2f5"
+  },
+  "airport_ident": "GB-0185",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2f6"
+  },
+  "airport_ident": "GB-0186",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2f7"
+  },
+  "airport_ident": "GB-0187",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2f8"
+  },
+  "airport_ident": "GB-0188",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2f9"
+  },
+  "airport_ident": "GB-0189",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2fa"
+  },
+  "airport_ident": "GB-0190",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2fb"
+  },
+  "airport_ident": "GB-0191",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2fc"
+  },
+  "airport_ident": "GB-0192",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2fd"
+  },
+  "airport_ident": "GB-0193",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2fe"
+  },
+  "airport_ident": "GB-0194",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca2ff"
+  },
+  "airport_ident": "GB-0195",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca300"
+  },
+  "airport_ident": "GB-0196",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca301"
+  },
+  "airport_ident": "GB-0197",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca302"
+  },
+  "airport_ident": "GB-0198",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca303"
+  },
+  "airport_ident": "GB-0199",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca304"
+  },
+  "airport_ident": "GB-0200",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca305"
+  },
+  "airport_ident": "GB-0201",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca306"
+  },
+  "airport_ident": "GB-0202",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca307"
+  },
+  "airport_ident": "GB-0203",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca308"
+  },
+  "airport_ident": "GB-0204",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca309"
+  },
+  "airport_ident": "GB-0205",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca30a"
+  },
+  "airport_ident": "GB-0206",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca30b"
+  },
+  "airport_ident": "GB-0208",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca30c"
+  },
+  "airport_ident": "GB-0209",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca30d"
+  },
+  "airport_ident": "GB-0210",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca30e"
+  },
+  "airport_ident": "GB-0211",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca30f"
+  },
+  "airport_ident": "GB-0212",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca310"
+  },
+  "airport_ident": "GB-0213",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca311"
+  },
+  "airport_ident": "GB-0214",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca312"
+  },
+  "airport_ident": "GB-0215",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca313"
+  },
+  "airport_ident": "GB-0216",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca314"
+  },
+  "airport_ident": "GB-0217",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca315"
+  },
+  "airport_ident": "GB-0219",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca316"
+  },
+  "airport_ident": "GB-0220",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca317"
+  },
+  "airport_ident": "GB-0221",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca318"
+  },
+  "airport_ident": "GB-0222",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca319"
+  },
+  "airport_ident": "GB-0223",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca31a"
+  },
+  "airport_ident": "GB-0224",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca31b"
+  },
+  "airport_ident": "GB-0225",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca31c"
+  },
+  "airport_ident": "GB-0226",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca31d"
+  },
+  "airport_ident": "GB-0227",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca31e"
+  },
+  "airport_ident": "GB-0228",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca31f"
+  },
+  "airport_ident": "GB-0230",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca320"
+  },
+  "airport_ident": "GB-0231",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca321"
+  },
+  "airport_ident": "GB-0232",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca322"
+  },
+  "airport_ident": "GB-0233",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca323"
+  },
+  "airport_ident": "GB-0234",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca324"
+  },
+  "airport_ident": "GB-0235",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca325"
+  },
+  "airport_ident": "GB-0236",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca326"
+  },
+  "airport_ident": "GB-0237",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca327"
+  },
+  "airport_ident": "GB-0238",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca328"
+  },
+  "airport_ident": "GB-0239",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca329"
+  },
+  "airport_ident": "GB-0240",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca32a"
+  },
+  "airport_ident": "GB-0241",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca32b"
+  },
+  "airport_ident": "GB-0242",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca32c"
+  },
+  "airport_ident": "GB-0243",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca32d"
+  },
+  "airport_ident": "GB-0245",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca32e"
+  },
+  "airport_ident": "GB-0246",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca32f"
+  },
+  "airport_ident": "GB-0248",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca330"
+  },
+  "airport_ident": "GB-0249",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca331"
+  },
+  "airport_ident": "GB-0250",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca332"
+  },
+  "airport_ident": "GB-0251",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca333"
+  },
+  "airport_ident": "GB-0252",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca334"
+  },
+  "airport_ident": "GB-0253",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca335"
+  },
+  "airport_ident": "GB-0254",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca336"
+  },
+  "airport_ident": "GB-0255",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca337"
+  },
+  "airport_ident": "GB-0256",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca338"
+  },
+  "airport_ident": "GB-0257",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca339"
+  },
+  "airport_ident": "GB-0258",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca33a"
+  },
+  "airport_ident": "GB-0259",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca33b"
+  },
+  "airport_ident": "GB-0260",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca33c"
+  },
+  "airport_ident": "GB-0261",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca33d"
+  },
+  "airport_ident": "GB-0262",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca33e"
+  },
+  "airport_ident": "GB-0263",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca33f"
+  },
+  "airport_ident": "GB-0264",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca340"
+  },
+  "airport_ident": "GB-0265",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca341"
+  },
+  "airport_ident": "GB-0266",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca342"
+  },
+  "airport_ident": "GB-0267",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca343"
+  },
+  "airport_ident": "GB-0268",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca344"
+  },
+  "airport_ident": "GB-0269",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca345"
+  },
+  "airport_ident": "GB-0270",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca346"
+  },
+  "airport_ident": "GB-0271",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca347"
+  },
+  "airport_ident": "GB-0272",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca348"
+  },
+  "airport_ident": "GB-0273",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca349"
+  },
+  "airport_ident": "GB-0274",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca34a"
+  },
+  "airport_ident": "GB-0275",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca34b"
+  },
+  "airport_ident": "GB-0276",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca34c"
+  },
+  "airport_ident": "GB-0277",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca34d"
+  },
+  "airport_ident": "GB-0278",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca34e"
+  },
+  "airport_ident": "GB-0279",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca34f"
+  },
+  "airport_ident": "GB-0280",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca350"
+  },
+  "airport_ident": "GB-0281",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca351"
+  },
+  "airport_ident": "GB-0282",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca352"
+  },
+  "airport_ident": "GB-0283",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca353"
+  },
+  "airport_ident": "GB-0284",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca354"
+  },
+  "airport_ident": "GB-0285",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca355"
+  },
+  "airport_ident": "GB-0286",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca356"
+  },
+  "airport_ident": "GB-0287",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca357"
+  },
+  "airport_ident": "GB-0288",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca358"
+  },
+  "airport_ident": "GB-0289",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca359"
+  },
+  "airport_ident": "GB-0290",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca35a"
+  },
+  "airport_ident": "GB-0291",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca35b"
+  },
+  "airport_ident": "GB-0292",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca35c"
+  },
+  "airport_ident": "GB-0293",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca35d"
+  },
+  "airport_ident": "GB-0294",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca35e"
+  },
+  "airport_ident": "GB-0295",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca35f"
+  },
+  "airport_ident": "GB-0296",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca360"
+  },
+  "airport_ident": "GB-0297",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca361"
+  },
+  "airport_ident": "GB-0298",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca362"
+  },
+  "airport_ident": "GB-0300",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca363"
+  },
+  "airport_ident": "GB-0301",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca364"
+  },
+  "airport_ident": "GB-0302",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca365"
+  },
+  "airport_ident": "GB-0303",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca366"
+  },
+  "airport_ident": "GB-0304",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca367"
+  },
+  "airport_ident": "GB-0306",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca368"
+  },
+  "airport_ident": "GB-0308",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca369"
+  },
+  "airport_ident": "GB-0309",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca36a"
+  },
+  "airport_ident": "GB-0310",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca36b"
+  },
+  "airport_ident": "GB-0311",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca36c"
+  },
+  "airport_ident": "GB-0314",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca36d"
+  },
+  "airport_ident": "GB-0315",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca36e"
+  },
+  "airport_ident": "GB-0316",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca36f"
+  },
+  "airport_ident": "GB-0317",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca370"
+  },
+  "airport_ident": "GB-0318",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca371"
+  },
+  "airport_ident": "GB-0319",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca372"
+  },
+  "airport_ident": "GB-0321",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca373"
+  },
+  "airport_ident": "GB-0323",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca374"
+  },
+  "airport_ident": "GB-0324",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca375"
+  },
+  "airport_ident": "GB-0325",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca376"
+  },
+  "airport_ident": "GB-0326",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca377"
+  },
+  "airport_ident": "GB-0327",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca378"
+  },
+  "airport_ident": "GB-0328",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca379"
+  },
+  "airport_ident": "GB-0329",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca37a"
+  },
+  "airport_ident": "GB-0330",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca37b"
+  },
+  "airport_ident": "GB-0331",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca37c"
+  },
+  "airport_ident": "GB-0332",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca37d"
+  },
+  "airport_ident": "GB-0333",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca37e"
+  },
+  "airport_ident": "GB-0334",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca37f"
+  },
+  "airport_ident": "GB-0335",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca380"
+  },
+  "airport_ident": "GB-0336",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca381"
+  },
+  "airport_ident": "GB-0337",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca382"
+  },
+  "airport_ident": "GB-0339",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca383"
+  },
+  "airport_ident": "GB-0340",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca384"
+  },
+  "airport_ident": "GB-0341",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca385"
+  },
+  "airport_ident": "GB-0353",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca386"
+  },
+  "airport_ident": "GB-0354",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca387"
+  },
+  "airport_ident": "GB-0355",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca388"
+  },
+  "airport_ident": "GB-0356",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca389"
+  },
+  "airport_ident": "GB-0357",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca38a"
+  },
+  "airport_ident": "GB-0358",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca38b"
+  },
+  "airport_ident": "GB-0359",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca38c"
+  },
+  "airport_ident": "GB-0360",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca38d"
+  },
+  "airport_ident": "GB-0361",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca38e"
+  },
+  "airport_ident": "GB-0362",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca38f"
+  },
+  "airport_ident": "GB-0363",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca390"
+  },
+  "airport_ident": "GB-0364",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca391"
+  },
+  "airport_ident": "GB-0365",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca392"
+  },
+  "airport_ident": "GB-0366",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca393"
+  },
+  "airport_ident": "GB-0367",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca394"
+  },
+  "airport_ident": "GB-0368",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca395"
+  },
+  "airport_ident": "GB-0369",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca396"
+  },
+  "airport_ident": "GB-0370",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca397"
+  },
+  "airport_ident": "GB-0371",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca398"
+  },
+  "airport_ident": "GB-0372",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca399"
+  },
+  "airport_ident": "GB-0373",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca39a"
+  },
+  "airport_ident": "GB-0374",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca39b"
+  },
+  "airport_ident": "GB-0375",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca39c"
+  },
+  "airport_ident": "GB-0376",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca39d"
+  },
+  "airport_ident": "GB-0377",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca39e"
+  },
+  "airport_ident": "GB-0378",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca39f"
+  },
+  "airport_ident": "GB-0379",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3a0"
+  },
+  "airport_ident": "GB-0380",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3a1"
+  },
+  "airport_ident": "GB-0381",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3a2"
+  },
+  "airport_ident": "GB-0382",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3a3"
+  },
+  "airport_ident": "GB-0383",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3a4"
+  },
+  "airport_ident": "GB-0384",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3a5"
+  },
+  "airport_ident": "GB-0385",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3a6"
+  },
+  "airport_ident": "GB-0387",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3a7"
+  },
+  "airport_ident": "GB-0388",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3a8"
+  },
+  "airport_ident": "GB-0389",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3a9"
+  },
+  "airport_ident": "GB-0390",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3aa"
+  },
+  "airport_ident": "GB-0391",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3ab"
+  },
+  "airport_ident": "GB-0392",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3ac"
+  },
+  "airport_ident": "GB-0393",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3ad"
+  },
+  "airport_ident": "GB-0394",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3ae"
+  },
+  "airport_ident": "GB-0395",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3af"
+  },
+  "airport_ident": "GB-0397",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3b0"
+  },
+  "airport_ident": "GB-0398",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3b1"
+  },
+  "airport_ident": "GB-0399",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3b2"
+  },
+  "airport_ident": "GB-0400",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3b3"
+  },
+  "airport_ident": "GB-0401",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3b4"
+  },
+  "airport_ident": "GB-0402",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3b5"
+  },
+  "airport_ident": "GB-0403",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3b6"
+  },
+  "airport_ident": "GB-0404",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3b7"
+  },
+  "airport_ident": "GB-0405",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3b8"
+  },
+  "airport_ident": "GB-0406",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3b9"
+  },
+  "airport_ident": "GB-0407",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3ba"
+  },
+  "airport_ident": "GB-0408",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3bb"
+  },
+  "airport_ident": "GB-0409",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3bc"
+  },
+  "airport_ident": "GB-0410",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3bd"
+  },
+  "airport_ident": "GB-0411",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3be"
+  },
+  "airport_ident": "GB-0412",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3bf"
+  },
+  "airport_ident": "GB-0413",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3c0"
+  },
+  "airport_ident": "GB-0414",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3c1"
+  },
+  "airport_ident": "GB-0415",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3c2"
+  },
+  "airport_ident": "GB-0416",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3c3"
+  },
+  "airport_ident": "GB-0417",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3c4"
+  },
+  "airport_ident": "GB-0418",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3c5"
+  },
+  "airport_ident": "GB-0419",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3c6"
+  },
+  "airport_ident": "GB-0420",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3c7"
+  },
+  "airport_ident": "GB-0421",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3c8"
+  },
+  "airport_ident": "GB-0422",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3c9"
+  },
+  "airport_ident": "GB-0424",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3ca"
+  },
+  "airport_ident": "GB-0425",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3cb"
+  },
+  "airport_ident": "GB-0426",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3cc"
+  },
+  "airport_ident": "GB-0427",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3cd"
+  },
+  "airport_ident": "GB-0428",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3ce"
+  },
+  "airport_ident": "GB-0429",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3cf"
+  },
+  "airport_ident": "GB-0431",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3d0"
+  },
+  "airport_ident": "GB-0432",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3d1"
+  },
+  "airport_ident": "GB-0433",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3d2"
+  },
+  "airport_ident": "GB-0434",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3d3"
+  },
+  "airport_ident": "GB-0435",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3d4"
+  },
+  "airport_ident": "GB-0436",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3d5"
+  },
+  "airport_ident": "GB-0438",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3d6"
+  },
+  "airport_ident": "GB-0439",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3d7"
+  },
+  "airport_ident": "GB-0440",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3d8"
+  },
+  "airport_ident": "GB-0441",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3d9"
+  },
+  "airport_ident": "GB-0442",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3da"
+  },
+  "airport_ident": "GB-0443",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3db"
+  },
+  "airport_ident": "GB-0445",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3dc"
+  },
+  "airport_ident": "GB-0446",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3dd"
+  },
+  "airport_ident": "GB-0447",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3de"
+  },
+  "airport_ident": "GB-0448",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3df"
+  },
+  "airport_ident": "GB-0449",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3e0"
+  },
+  "airport_ident": "GB-0450",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3e1"
+  },
+  "airport_ident": "GB-0451",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3e2"
+  },
+  "airport_ident": "GB-0452",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3e3"
+  },
+  "airport_ident": "GB-0453",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3e4"
+  },
+  "airport_ident": "GB-0454",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3e5"
+  },
+  "airport_ident": "GB-0455",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3e6"
+  },
+  "airport_ident": "GB-0456",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3e7"
+  },
+  "airport_ident": "GB-0457",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3e8"
+  },
+  "airport_ident": "GB-0459",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3e9"
+  },
+  "airport_ident": "GB-0460",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3ea"
+  },
+  "airport_ident": "GB-0461",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3eb"
+  },
+  "airport_ident": "GB-0462",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3ec"
+  },
+  "airport_ident": "GB-0463",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3ed"
+  },
+  "airport_ident": "GB-0464",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3ee"
+  },
+  "airport_ident": "GB-0465",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3ef"
+  },
+  "airport_ident": "GB-0466",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3f0"
+  },
+  "airport_ident": "GB-0467",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3f1"
+  },
+  "airport_ident": "GB-0468",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3f2"
+  },
+  "airport_ident": "GB-0469",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3f3"
+  },
+  "airport_ident": "GB-0470",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3f4"
+  },
+  "airport_ident": "GB-0471",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3f5"
+  },
+  "airport_ident": "GB-0472",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3f6"
+  },
+  "airport_ident": "GB-0473",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3f7"
+  },
+  "airport_ident": "GB-0474",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3f8"
+  },
+  "airport_ident": "GB-0475",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3f9"
+  },
+  "airport_ident": "GB-0476",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3fa"
+  },
+  "airport_ident": "GB-0477",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3fb"
+  },
+  "airport_ident": "GB-0478",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3fc"
+  },
+  "airport_ident": "GB-0479",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3fd"
+  },
+  "airport_ident": "GB-0480",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3fe"
+  },
+  "airport_ident": "GB-0481",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca3ff"
+  },
+  "airport_ident": "GB-0482",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca400"
+  },
+  "airport_ident": "GB-0483",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca401"
+  },
+  "airport_ident": "GB-0484",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca402"
+  },
+  "airport_ident": "GB-0486",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca403"
+  },
+  "airport_ident": "GB-0487",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca404"
+  },
+  "airport_ident": "GB-0488",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca405"
+  },
+  "airport_ident": "GB-0489",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca406"
+  },
+  "airport_ident": "GB-0490",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca407"
+  },
+  "airport_ident": "GB-0491",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca408"
+  },
+  "airport_ident": "GB-0492",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca409"
+  },
+  "airport_ident": "GB-0493",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca40a"
+  },
+  "airport_ident": "GB-0494",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca40b"
+  },
+  "airport_ident": "GB-0495",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca40c"
+  },
+  "airport_ident": "GB-0497",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca40d"
+  },
+  "airport_ident": "GB-0498",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca40e"
+  },
+  "airport_ident": "GB-0499",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca40f"
+  },
+  "airport_ident": "GB-0500",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca410"
+  },
+  "airport_ident": "GB-0501",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca411"
+  },
+  "airport_ident": "GB-0502",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca412"
+  },
+  "airport_ident": "GB-0503",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca413"
+  },
+  "airport_ident": "GB-0504",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca414"
+  },
+  "airport_ident": "GB-0505",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca415"
+  },
+  "airport_ident": "GB-0506",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca416"
+  },
+  "airport_ident": "GB-0507",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca417"
+  },
+  "airport_ident": "GB-0508",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca418"
+  },
+  "airport_ident": "GB-0509",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca419"
+  },
+  "airport_ident": "GB-0513",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca41a"
+  },
+  "airport_ident": "GB-0514",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca41b"
+  },
+  "airport_ident": "GB-0517",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca41c"
+  },
+  "airport_ident": "GB-0518",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca41d"
+  },
+  "airport_ident": "GB-0520",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca41e"
+  },
+  "airport_ident": "GB-0521",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca41f"
+  },
+  "airport_ident": "GB-0522",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca420"
+  },
+  "airport_ident": "GB-0523",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca421"
+  },
+  "airport_ident": "GB-0524",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca422"
+  },
+  "airport_ident": "GB-0525",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca423"
+  },
+  "airport_ident": "GB-0526",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca424"
+  },
+  "airport_ident": "GB-0527",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca425"
+  },
+  "airport_ident": "GB-0529",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca426"
+  },
+  "airport_ident": "GB-0530",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca427"
+  },
+  "airport_ident": "GB-0531",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca428"
+  },
+  "airport_ident": "GB-0532",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca429"
+  },
+  "airport_ident": "GB-0533",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca42a"
+  },
+  "airport_ident": "GB-0535",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca42b"
+  },
+  "airport_ident": "GB-0536",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca42c"
+  },
+  "airport_ident": "GB-0537",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca42d"
+  },
+  "airport_ident": "GB-0538",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca42e"
+  },
+  "airport_ident": "GB-0539",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca42f"
+  },
+  "airport_ident": "GB-0540",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca430"
+  },
+  "airport_ident": "GB-0541",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca431"
+  },
+  "airport_ident": "GB-0542",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca432"
+  },
+  "airport_ident": "GB-0543",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca433"
+  },
+  "airport_ident": "GB-0544",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca434"
+  },
+  "airport_ident": "GB-0545",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca435"
+  },
+  "airport_ident": "GB-0546",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca436"
+  },
+  "airport_ident": "GB-0547",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca437"
+  },
+  "airport_ident": "GB-0548",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca438"
+  },
+  "airport_ident": "GB-0550",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca439"
+  },
+  "airport_ident": "GB-0551",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca43a"
+  },
+  "airport_ident": "GB-0552",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca43b"
+  },
+  "airport_ident": "GB-0553",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca43c"
+  },
+  "airport_ident": "GB-0554",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca43d"
+  },
+  "airport_ident": "GB-0555",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca43e"
+  },
+  "airport_ident": "GB-0556",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca43f"
+  },
+  "airport_ident": "GB-0557",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca440"
+  },
+  "airport_ident": "GB-0558",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca441"
+  },
+  "airport_ident": "GB-0559",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca442"
+  },
+  "airport_ident": "GB-0560",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca443"
+  },
+  "airport_ident": "GB-0561",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca444"
+  },
+  "airport_ident": "GB-0562",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca445"
+  },
+  "airport_ident": "GB-0564",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca446"
+  },
+  "airport_ident": "GB-0569",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca447"
+  },
+  "airport_ident": "GB-0577",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca448"
+  },
+  "airport_ident": "GB-0581",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca449"
+  },
+  "airport_ident": "GB-0584",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca44a"
+  },
+  "airport_ident": "GB-0585",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca44b"
+  },
+  "airport_ident": "GB-0587",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca44c"
+  },
+  "airport_ident": "GB-0591",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca44d"
+  },
+  "airport_ident": "GB-0592",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca44e"
+  },
+  "airport_ident": "GB-0593",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca44f"
+  },
+  "airport_ident": "GB-0594",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca450"
+  },
+  "airport_ident": "GB-0596",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca451"
+  },
+  "airport_ident": "GB-0597",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca452"
+  },
+  "airport_ident": "GB-0599",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca453"
+  },
+  "airport_ident": "GB-0600",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca454"
+  },
+  "airport_ident": "GB-0601",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca455"
+  },
+  "airport_ident": "GB-0602",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca456"
+  },
+  "airport_ident": "GB-0606",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca457"
+  },
+  "airport_ident": "GB-0611",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca458"
+  },
+  "airport_ident": "GB-0614",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca459"
+  },
+  "airport_ident": "GB-0615",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca45a"
+  },
+  "airport_ident": "GB-0616",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca45b"
+  },
+  "airport_ident": "GB-0619",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca45c"
+  },
+  "airport_ident": "GB-0620",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca45d"
+  },
+  "airport_ident": "GB-0621",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca45e"
+  },
+  "airport_ident": "GB-0622",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca45f"
+  },
+  "airport_ident": "GB-0624",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca460"
+  },
+  "airport_ident": "GB-0626",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca461"
+  },
+  "airport_ident": "GB-0627",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca462"
+  },
+  "airport_ident": "GB-0628",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca463"
+  },
+  "airport_ident": "GB-0629",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca464"
+  },
+  "airport_ident": "GB-0630",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca465"
+  },
+  "airport_ident": "GB-0631",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca466"
+  },
+  "airport_ident": "GB-0632",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca467"
+  },
+  "airport_ident": "GB-0634",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca468"
+  },
+  "airport_ident": "GB-0638",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca469"
+  },
+  "airport_ident": "GB-0639",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca46a"
+  },
+  "airport_ident": "GB-0649",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca46b"
+  },
+  "airport_ident": "GB-0651",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca46c"
+  },
+  "airport_ident": "GB-0652",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca46d"
+  },
+  "airport_ident": "GB-0653",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca46e"
+  },
+  "airport_ident": "GB-0654",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca46f"
+  },
+  "airport_ident": "GB-0660",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca470"
+  },
+  "airport_ident": "GB-0661",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca471"
+  },
+  "airport_ident": "GB-0662",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca472"
+  },
+  "airport_ident": "GB-0665",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca473"
+  },
+  "airport_ident": "GB-0667",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca474"
+  },
+  "airport_ident": "GB-0668",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca475"
+  },
+  "airport_ident": "GB-0669",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca476"
+  },
+  "airport_ident": "GB-0670",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca477"
+  },
+  "airport_ident": "GB-0671",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca478"
+  },
+  "airport_ident": "GB-0678",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca479"
+  },
+  "airport_ident": "GB-0679",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca47a"
+  },
+  "airport_ident": "GB-0680",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca47b"
+  },
+  "airport_ident": "GB-0681",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca47c"
+  },
+  "airport_ident": "GB-0685",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca47d"
+  },
+  "airport_ident": "GB-0686",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca47e"
+  },
+  "airport_ident": "GB-0687",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca47f"
+  },
+  "airport_ident": "GB-0688",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca480"
+  },
+  "airport_ident": "GB-0689",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca481"
+  },
+  "airport_ident": "GB-0691",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca482"
+  },
+  "airport_ident": "GB-0692",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca483"
+  },
+  "airport_ident": "GB-0693",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca484"
+  },
+  "airport_ident": "GB-0694",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca485"
+  },
+  "airport_ident": "GB-0695",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca486"
+  },
+  "airport_ident": "GB-0696",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca487"
+  },
+  "airport_ident": "GB-0697",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca488"
+  },
+  "airport_ident": "GB-0698",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca489"
+  },
+  "airport_ident": "GB-0699",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca48a"
+  },
+  "airport_ident": "GB-0700",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca48b"
+  },
+  "airport_ident": "GB-0701",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca48c"
+  },
+  "airport_ident": "GB-0702",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca48d"
+  },
+  "airport_ident": "GB-0703",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca48e"
+  },
+  "airport_ident": "GB-0704",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca48f"
+  },
+  "airport_ident": "GB-0705",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca490"
+  },
+  "airport_ident": "GB-0706",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca491"
+  },
+  "airport_ident": "GB-0707",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca492"
+  },
+  "airport_ident": "GB-0708",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca493"
+  },
+  "airport_ident": "GB-0709",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca494"
+  },
+  "airport_ident": "GB-0710",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca495"
+  },
+  "airport_ident": "GB-0711",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca496"
+  },
+  "airport_ident": "GB-0712",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca497"
+  },
+  "airport_ident": "GB-0713",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca498"
+  },
+  "airport_ident": "GB-0714",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca499"
+  },
+  "airport_ident": "GB-0715",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca49a"
+  },
+  "airport_ident": "GB-0717",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca49b"
+  },
+  "airport_ident": "GB-0718",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca49c"
+  },
+  "airport_ident": "GB-0719",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca49d"
+  },
+  "airport_ident": "GB-0721",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca49e"
+  },
+  "airport_ident": "GB-0722",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca49f"
+  },
+  "airport_ident": "GB-0723",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4a0"
+  },
+  "airport_ident": "GB-0724",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4a1"
+  },
+  "airport_ident": "GB-0725",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4a2"
+  },
+  "airport_ident": "GB-0726",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4a3"
+  },
+  "airport_ident": "GB-0728",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4a4"
+  },
+  "airport_ident": "GB-0729",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4a5"
+  },
+  "airport_ident": "GB-0730",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4a6"
+  },
+  "airport_ident": "GB-0731",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4a7"
+  },
+  "airport_ident": "GB-0732",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4a8"
+  },
+  "airport_ident": "GB-0733",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4a9"
+  },
+  "airport_ident": "GB-0734",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4aa"
+  },
+  "airport_ident": "GB-0736",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4ab"
+  },
+  "airport_ident": "GB-0737",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4ac"
+  },
+  "airport_ident": "GB-0739",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4ad"
+  },
+  "airport_ident": "GB-0740",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4ae"
+  },
+  "airport_ident": "GB-0741",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4af"
+  },
+  "airport_ident": "GB-0744",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4b0"
+  },
+  "airport_ident": "GB-0746",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4b1"
+  },
+  "airport_ident": "GB-0747",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4b2"
+  },
+  "airport_ident": "GB-0748",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4b3"
+  },
+  "airport_ident": "GB-0749",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4b4"
+  },
+  "airport_ident": "GB-0750",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4b5"
+  },
+  "airport_ident": "GB-0751",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4b6"
+  },
+  "airport_ident": "GB-0752",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4b7"
+  },
+  "airport_ident": "GB-0753",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4b8"
+  },
+  "airport_ident": "GB-0754",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4b9"
+  },
+  "airport_ident": "GB-0755",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4ba"
+  },
+  "airport_ident": "GB-0756",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4bb"
+  },
+  "airport_ident": "GB-0757",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4bc"
+  },
+  "airport_ident": "GB-0758",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4bd"
+  },
+  "airport_ident": "GB-0759",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4be"
+  },
+  "airport_ident": "GB-0760",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4bf"
+  },
+  "airport_ident": "GB-0761",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4c0"
+  },
+  "airport_ident": "GB-0762",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4c1"
+  },
+  "airport_ident": "GB-0763",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4c2"
+  },
+  "airport_ident": "GB-0764",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4c3"
+  },
+  "airport_ident": "GB-0765",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4c4"
+  },
+  "airport_ident": "GB-0766",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4c5"
+  },
+  "airport_ident": "GB-0768",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4c6"
+  },
+  "airport_ident": "GB-0769",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4c7"
+  },
+  "airport_ident": "GB-0770",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4c8"
+  },
+  "airport_ident": "GB-0771",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4c9"
+  },
+  "airport_ident": "GB-0772",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4ca"
+  },
+  "airport_ident": "GB-0773",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4cb"
+  },
+  "airport_ident": "GB-0774",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4cc"
+  },
+  "airport_ident": "GB-0775",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4cd"
+  },
+  "airport_ident": "GB-0776",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4ce"
+  },
+  "airport_ident": "GB-0777",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4cf"
+  },
+  "airport_ident": "GB-0778",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4d0"
+  },
+  "airport_ident": "GB-0779",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4d1"
+  },
+  "airport_ident": "GB-0780",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4d2"
+  },
+  "airport_ident": "GB-0781",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4d3"
+  },
+  "airport_ident": "GB-0782",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4d4"
+  },
+  "airport_ident": "GB-0783",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4d5"
+  },
+  "airport_ident": "GB-0784",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4d6"
+  },
+  "airport_ident": "GB-0785",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4d7"
+  },
+  "airport_ident": "GB-0787",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4d8"
+  },
+  "airport_ident": "GB-0788",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4d9"
+  },
+  "airport_ident": "GB-0789",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4da"
+  },
+  "airport_ident": "GB-0790",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4db"
+  },
+  "airport_ident": "GB-0791",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4dc"
+  },
+  "airport_ident": "GB-0792",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4dd"
+  },
+  "airport_ident": "GB-0794",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4de"
+  },
+  "airport_ident": "GB-0795",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4df"
+  },
+  "airport_ident": "GB-0796",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4e0"
+  },
+  "airport_ident": "GB-0797",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4e1"
+  },
+  "airport_ident": "GB-0798",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4e2"
+  },
+  "airport_ident": "GB-0799",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4e3"
+  },
+  "airport_ident": "GB-0800",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4e4"
+  },
+  "airport_ident": "GB-0801",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4e5"
+  },
+  "airport_ident": "GB-0802",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4e6"
+  },
+  "airport_ident": "GB-0803",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4e7"
+  },
+  "airport_ident": "GB-0804",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4e8"
+  },
+  "airport_ident": "GB-0805",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4e9"
+  },
+  "airport_ident": "GB-0806",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4ea"
+  },
+  "airport_ident": "GB-0807",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4eb"
+  },
+  "airport_ident": "GB-0808",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4ec"
+  },
+  "airport_ident": "GB-0809",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4ed"
+  },
+  "airport_ident": "GB-0810",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4ee"
+  },
+  "airport_ident": "GB-0811",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4ef"
+  },
+  "airport_ident": "GB-0812",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4f0"
+  },
+  "airport_ident": "GB-0813",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4f1"
+  },
+  "airport_ident": "GB-0814",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4f2"
+  },
+  "airport_ident": "GB-0815",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4f3"
+  },
+  "airport_ident": "GB-0816",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4f4"
+  },
+  "airport_ident": "GB-0817",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4f5"
+  },
+  "airport_ident": "GB-0818",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4f6"
+  },
+  "airport_ident": "GB-0819",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4f7"
+  },
+  "airport_ident": "GB-0820",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4f8"
+  },
+  "airport_ident": "GB-0821",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4f9"
+  },
+  "airport_ident": "GB-0822",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4fa"
+  },
+  "airport_ident": "GB-0823",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4fb"
+  },
+  "airport_ident": "GB-0824",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4fc"
+  },
+  "airport_ident": "GB-0825",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4fd"
+  },
+  "airport_ident": "GB-0826",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4fe"
+  },
+  "airport_ident": "GB-0827",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca4ff"
+  },
+  "airport_ident": "GB-0828",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca500"
+  },
+  "airport_ident": "GB-0829",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca501"
+  },
+  "airport_ident": "GB-0830",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca502"
+  },
+  "airport_ident": "GB-0831",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca503"
+  },
+  "airport_ident": "GB-0832",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca504"
+  },
+  "airport_ident": "GB-0833",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca505"
+  },
+  "airport_ident": "GB-0834",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca506"
+  },
+  "airport_ident": "GB-0835",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca507"
+  },
+  "airport_ident": "GB-0836",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca508"
+  },
+  "airport_ident": "GB-0837",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca509"
+  },
+  "airport_ident": "GB-0839",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca50a"
+  },
+  "airport_ident": "GB-0840",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca50b"
+  },
+  "airport_ident": "GB-0841",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca50c"
+  },
+  "airport_ident": "GB-0842",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca50d"
+  },
+  "airport_ident": "GB-0843",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca50e"
+  },
+  "airport_ident": "GB-0844",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca50f"
+  },
+  "airport_ident": "GB-0845",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca510"
+  },
+  "airport_ident": "GB-0846",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca511"
+  },
+  "airport_ident": "GB-0847",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca512"
+  },
+  "airport_ident": "GB-0848",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca513"
+  },
+  "airport_ident": "GB-0849",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca514"
+  },
+  "airport_ident": "GB-0850",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca515"
+  },
+  "airport_ident": "GB-0851",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca516"
+  },
+  "airport_ident": "GB-0852",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca517"
+  },
+  "airport_ident": "GB-0853",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca518"
+  },
+  "airport_ident": "GB-0854",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca519"
+  },
+  "airport_ident": "GB-0855",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca51a"
+  },
+  "airport_ident": "GB-0857",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca51b"
+  },
+  "airport_ident": "GB-0858",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca51c"
+  },
+  "airport_ident": "GB-0859",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca51d"
+  },
+  "airport_ident": "GB-0860",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca51e"
+  },
+  "airport_ident": "GB-0863",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca51f"
+  },
+  "airport_ident": "GB-0864",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca520"
+  },
+  "airport_ident": "GB-0865",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca521"
+  },
+  "airport_ident": "GB-0866",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca522"
+  },
+  "airport_ident": "GB-0867",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca523"
+  },
+  "airport_ident": "GB-0868",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca524"
+  },
+  "airport_ident": "GB-0869",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca525"
+  },
+  "airport_ident": "GB-0870",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca526"
+  },
+  "airport_ident": "GB-0871",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca527"
+  },
+  "airport_ident": "GB-0872",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca528"
+  },
+  "airport_ident": "GB-0873",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca529"
+  },
+  "airport_ident": "GB-0874",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca52a"
+  },
+  "airport_ident": "GB-0875",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca52b"
+  },
+  "airport_ident": "GB-0876",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca52c"
+  },
+  "airport_ident": "GB-0877",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca52d"
+  },
+  "airport_ident": "GB-0878",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca52e"
+  },
+  "airport_ident": "GB-0879",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca52f"
+  },
+  "airport_ident": "GB-0881",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca530"
+  },
+  "airport_ident": "GB-0883",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca531"
+  },
+  "airport_ident": "GB-0884",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca532"
+  },
+  "airport_ident": "GB-0885",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca533"
+  },
+  "airport_ident": "GB-0886",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca534"
+  },
+  "airport_ident": "GB-0887",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca535"
+  },
+  "airport_ident": "GB-0889",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca536"
+  },
+  "airport_ident": "GB-0890",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca537"
+  },
+  "airport_ident": "GB-0891",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca538"
+  },
+  "airport_ident": "GB-0892",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca539"
+  },
+  "airport_ident": "GB-0893",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca53a"
+  },
+  "airport_ident": "GB-0894",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca53b"
+  },
+  "airport_ident": "GB-0895",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca53c"
+  },
+  "airport_ident": "GB-0896",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca53d"
+  },
+  "airport_ident": "GB-0897",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca53e"
+  },
+  "airport_ident": "GB-0898",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca53f"
+  },
+  "airport_ident": "GB-0899",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca540"
+  },
+  "airport_ident": "GB-0900",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca541"
+  },
+  "airport_ident": "GB-0901",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca542"
+  },
+  "airport_ident": "GB-0902",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca543"
+  },
+  "airport_ident": "GB-0903",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca544"
+  },
+  "airport_ident": "GB-0904",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca545"
+  },
+  "airport_ident": "GB-0905",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca546"
+  },
+  "airport_ident": "GB-0906",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca547"
+  },
+  "airport_ident": "GB-0907",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca548"
+  },
+  "airport_ident": "GB-0909",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca549"
+  },
+  "airport_ident": "GB-0910",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca54a"
+  },
+  "airport_ident": "GB-0911",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca54b"
+  },
+  "airport_ident": "GB-0912",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca54c"
+  },
+  "airport_ident": "GB-0913",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca54d"
+  },
+  "airport_ident": "GB-0914",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca54e"
+  },
+  "airport_ident": "GB-0915",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca54f"
+  },
+  "airport_ident": "GB-0916",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca550"
+  },
+  "airport_ident": "GB-0917",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca551"
+  },
+  "airport_ident": "GB-0918",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca552"
+  },
+  "airport_ident": "GB-0919",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca553"
+  },
+  "airport_ident": "GB-0920",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca554"
+  },
+  "airport_ident": "GB-0921",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca555"
+  },
+  "airport_ident": "GB-0922",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca556"
+  },
+  "airport_ident": "GB-0923",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca557"
+  },
+  "airport_ident": "GB-0924",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca558"
+  },
+  "airport_ident": "GB-0925",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca559"
+  },
+  "airport_ident": "GB-0926",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca55a"
+  },
+  "airport_ident": "GB-0927",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca55b"
+  },
+  "airport_ident": "GB-0928",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca55c"
+  },
+  "airport_ident": "GB-0929",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca55d"
+  },
+  "airport_ident": "GB-0930",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca55e"
+  },
+  "airport_ident": "GB-0931",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca55f"
+  },
+  "airport_ident": "GB-0933",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca560"
+  },
+  "airport_ident": "GB-0934",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca561"
+  },
+  "airport_ident": "GB-0935",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca562"
+  },
+  "airport_ident": "GB-0936",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca563"
+  },
+  "airport_ident": "GB-0937",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca564"
+  },
+  "airport_ident": "GB-0938",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca565"
+  },
+  "airport_ident": "GB-0939",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca566"
+  },
+  "airport_ident": "GB-0940",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca567"
+  },
+  "airport_ident": "GB-0941",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca568"
+  },
+  "airport_ident": "GB-0942",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca569"
+  },
+  "airport_ident": "GB-0943",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca56a"
+  },
+  "airport_ident": "GB-0944",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca56b"
+  },
+  "airport_ident": "GB-0945",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca56c"
+  },
+  "airport_ident": "GB-0946",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca56d"
+  },
+  "airport_ident": "GB-0947",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca56e"
+  },
+  "airport_ident": "GB-0948",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca56f"
+  },
+  "airport_ident": "GB-0949",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca570"
+  },
+  "airport_ident": "GB-0950",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca571"
+  },
+  "airport_ident": "GB-0951",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca572"
+  },
+  "airport_ident": "GB-0952",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca573"
+  },
+  "airport_ident": "GB-0953",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca574"
+  },
+  "airport_ident": "GB-0954",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca575"
+  },
+  "airport_ident": "GB-0955",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca576"
+  },
+  "airport_ident": "GB-0956",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca577"
+  },
+  "airport_ident": "GB-0957",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca578"
+  },
+  "airport_ident": "GB-0958",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca579"
+  },
+  "airport_ident": "GB-0964",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca57a"
+  },
+  "airport_ident": "GB-0965",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca57b"
+  },
+  "airport_ident": "GB-0966",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca57c"
+  },
+  "airport_ident": "GB-0967",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca57d"
+  },
+  "airport_ident": "GB-0968",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca57e"
+  },
+  "airport_ident": "GB-0969",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca57f"
+  },
+  "airport_ident": "GB-0970",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca580"
+  },
+  "airport_ident": "GB-0971",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca581"
+  },
+  "airport_ident": "GB-0972",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca582"
+  },
+  "airport_ident": "GB-0973",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca583"
+  },
+  "airport_ident": "GB-0974",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca584"
+  },
+  "airport_ident": "GB-0975",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca585"
+  },
+  "airport_ident": "GB-0976",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca586"
+  },
+  "airport_ident": "GB-0977",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca587"
+  },
+  "airport_ident": "GB-0978",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca588"
+  },
+  "airport_ident": "GB-0979",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca589"
+  },
+  "airport_ident": "GB-0980",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca58a"
+  },
+  "airport_ident": "GB-0981",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca58b"
+  },
+  "airport_ident": "GB-0982",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca58c"
+  },
+  "airport_ident": "GB-0983",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca58d"
+  },
+  "airport_ident": "GB-0984",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca58e"
+  },
+  "airport_ident": "GB-0986",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca58f"
+  },
+  "airport_ident": "GB-0988",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca590"
+  },
+  "airport_ident": "GB-0989",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca591"
+  },
+  "airport_ident": "GB-0990",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca592"
+  },
+  "airport_ident": "GB-0991",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca593"
+  },
+  "airport_ident": "GB-0992",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca594"
+  },
+  "airport_ident": "GB-0993",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca595"
+  },
+  "airport_ident": "GB-0994",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca596"
+  },
+  "airport_ident": "GB-0995",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca597"
+  },
+  "airport_ident": "GB-0996",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca598"
+  },
+  "airport_ident": "GB-0997",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca599"
+  },
+  "airport_ident": "GB-0998",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca59a"
+  },
+  "airport_ident": "GB-0999",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca59b"
+  },
+  "airport_ident": "GB-1000",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca59c"
+  },
+  "airport_ident": "GB-1001",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca59d"
+  },
+  "airport_ident": "GB-1002",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca59e"
+  },
+  "airport_ident": "GB-1003",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca59f"
+  },
+  "airport_ident": "GB-1004",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5a0"
+  },
+  "airport_ident": "GB-1005",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5a1"
+  },
+  "airport_ident": "GB-1006",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5a2"
+  },
+  "airport_ident": "GB-1007",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5a3"
+  },
+  "airport_ident": "GB-1008",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5a4"
+  },
+  "airport_ident": "GB-1009",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5a5"
+  },
+  "airport_ident": "GB-1010",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5a6"
+  },
+  "airport_ident": "GB-1011",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5a7"
+  },
+  "airport_ident": "GB-1012",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5a8"
+  },
+  "airport_ident": "GB-1013",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5a9"
+  },
+  "airport_ident": "GB-1014",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5aa"
+  },
+  "airport_ident": "GB-1015",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5ab"
+  },
+  "airport_ident": "GB-1017",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5ac"
+  },
+  "airport_ident": "GB-1018",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5ad"
+  },
+  "airport_ident": "GB-1019",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5ae"
+  },
+  "airport_ident": "GB-1020",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5af"
+  },
+  "airport_ident": "GB-DOC",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5b0"
+  },
+  "airport_ident": "GB-FLH",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5b1"
+  },
+  "airport_ident": "GB-FOA",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5b2"
+  },
+  "airport_ident": "GB-OUK",
+  "type": "medium_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5b3"
+  },
+  "airport_ident": "GB-PSV",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5b4"
+  },
+  "airport_ident": "GB-ULL",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5b5"
+  },
+  "airport_ident": "LCRA",
+  "type": "large_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5b6"
+  },
+  "airport_ident": "XBRO",
+  "type": "small_airport",
+  "iso_country": "GB"
+},{
+  "_id": {
+    "$oid": "62caf277066826a29c6ca5b7"
+  },
+  "airport_ident": "XPLO",
+  "type": "small_airport",
+  "iso_country": "GB"
+}]

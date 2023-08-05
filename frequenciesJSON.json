@@ -1,0 +1,4141 @@
+[{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5b9"
+  },
+  "airport_ident": "Cark",
+  "frequency_mhz": 129.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5ba"
+  },
+  "airport_ident": "EG03",
+  "frequency_mhz": 123.175
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5bb"
+  },
+  "airport_ident": "EG64",
+  "frequency_mhz": 129.975
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5bc"
+  },
+  "airport_ident": "EG74",
+  "frequency_mhz": 122.825
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5bd"
+  },
+  "airport_ident": "EGAA",
+  "frequency_mhz": 128.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5be"
+  },
+  "airport_ident": "EGAA",
+  "frequency_mhz": 128.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5bf"
+  },
+  "airport_ident": "EGAA",
+  "frequency_mhz": 121.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5c0"
+  },
+  "airport_ident": "EGAA",
+  "frequency_mhz": 110.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5c1"
+  },
+  "airport_ident": "EGAA",
+  "frequency_mhz": 109.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5c2"
+  },
+  "airport_ident": "EGAA",
+  "frequency_mhz": 26.48
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5c3"
+  },
+  "airport_ident": "EGAA",
+  "frequency_mhz": 120.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5c4"
+  },
+  "airport_ident": "EGAA",
+  "frequency_mhz": 118.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5c5"
+  },
+  "airport_ident": "EGAB",
+  "frequency_mhz": 123.205
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5c6"
+  },
+  "airport_ident": "EGAC",
+  "frequency_mhz": 130.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5c7"
+  },
+  "airport_ident": "EGAC",
+  "frequency_mhz": 136.625
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5c8"
+  },
+  "airport_ident": "EGAC",
+  "frequency_mhz": 122.825
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5c9"
+  },
+  "airport_ident": "EGAD",
+  "frequency_mhz": 128.305
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5ca"
+  },
+  "airport_ident": "EGAE",
+  "frequency_mhz": 123.625
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5cb"
+  },
+  "airport_ident": "EGAE",
+  "frequency_mhz": 119.38
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5cc"
+  },
+  "airport_ident": "EGAE",
+  "frequency_mhz": 134.155
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5cd"
+  },
+  "airport_ident": "EGBB",
+  "frequency_mhz": 118.05
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5ce"
+  },
+  "airport_ident": "EGBB",
+  "frequency_mhz": 136.02
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5cf"
+  },
+  "airport_ident": "EGBB",
+  "frequency_mhz": 121.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5d0"
+  },
+  "airport_ident": "EGBB",
+  "frequency_mhz": 118.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5d1"
+  },
+  "airport_ident": "EGBD",
+  "frequency_mhz": 118.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5d2"
+  },
+  "airport_ident": "EGBE",
+  "frequency_mhz": 123.83
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5d3"
+  },
+  "airport_ident": "EGBE",
+  "frequency_mhz": 121.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5d4"
+  },
+  "airport_ident": "EGBF",
+  "frequency_mhz": 119.025
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5d5"
+  },
+  "airport_ident": "EGBF",
+  "frequency_mhz": 129.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5d6"
+  },
+  "airport_ident": "EGBG",
+  "frequency_mhz": 122.125
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5d7"
+  },
+  "airport_ident": "EGBJ",
+  "frequency_mhz": 128.55
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5d8"
+  },
+  "airport_ident": "EGBJ",
+  "frequency_mhz": 127.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5d9"
+  },
+  "airport_ident": "EGBJ",
+  "frequency_mhz": 121.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5da"
+  },
+  "airport_ident": "EGBJ",
+  "frequency_mhz": 120.975
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5db"
+  },
+  "airport_ident": "EGBJ",
+  "frequency_mhz": 122.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5dc"
+  },
+  "airport_ident": "EGBK",
+  "frequency_mhz": 122.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5dd"
+  },
+  "airport_ident": "EGBK",
+  "frequency_mhz": 122.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5de"
+  },
+  "airport_ident": "EGBL",
+  "frequency_mhz": 129.825
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5df"
+  },
+  "airport_ident": "EGBM",
+  "frequency_mhz": 124.075
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5e0"
+  },
+  "airport_ident": "EGBN",
+  "frequency_mhz": 134.875
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5e1"
+  },
+  "airport_ident": "EGBO",
+  "frequency_mhz": 123
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5e2"
+  },
+  "airport_ident": "EGBO",
+  "frequency_mhz": 124.875
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5e3"
+  },
+  "airport_ident": "EGBO",
+  "frequency_mhz": 123
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5e4"
+  },
+  "airport_ident": "EGBP",
+  "frequency_mhz": 118.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5e5"
+  },
+  "airport_ident": "EGBR",
+  "frequency_mhz": 129.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5e6"
+  },
+  "airport_ident": "EGBS",
+  "frequency_mhz": 123.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5e7"
+  },
+  "airport_ident": "EGBS",
+  "frequency_mhz": 123.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5e8"
+  },
+  "airport_ident": "EGBT",
+  "frequency_mhz": 122.175
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5e9"
+  },
+  "airport_ident": "EGBW",
+  "frequency_mhz": 124.03
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5ea"
+  },
+  "airport_ident": "EGCB",
+  "frequency_mhz": 120.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5eb"
+  },
+  "airport_ident": "EGCC",
+  "frequency_mhz": 135
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5ec"
+  },
+  "airport_ident": "EGCC",
+  "frequency_mhz": 128.175
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5ed"
+  },
+  "airport_ident": "EGCC",
+  "frequency_mhz": 121.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5ee"
+  },
+  "airport_ident": "EGCC",
+  "frequency_mhz": 121.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5ef"
+  },
+  "airport_ident": "EGCC",
+  "frequency_mhz": 118.625
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5f0"
+  },
+  "airport_ident": "EGCC",
+  "frequency_mhz": 119.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5f1"
+  },
+  "airport_ident": "EGCF",
+  "frequency_mhz": 130.425
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5f2"
+  },
+  "airport_ident": "EGCJ",
+  "frequency_mhz": 126.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5f3"
+  },
+  "airport_ident": "EGCJ",
+  "frequency_mhz": 126.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5f4"
+  },
+  "airport_ident": "EGCK",
+  "frequency_mhz": 122.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5f5"
+  },
+  "airport_ident": "EGCL",
+  "frequency_mhz": 122.925
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5f6"
+  },
+  "airport_ident": "EGCL",
+  "frequency_mhz": 122.925
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5f7"
+  },
+  "airport_ident": "EGCN",
+  "frequency_mhz": 126.225
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5f8"
+  },
+  "airport_ident": "EGCN",
+  "frequency_mhz": 134.95
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5f9"
+  },
+  "airport_ident": "EGCN",
+  "frequency_mhz": 121.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5fa"
+  },
+  "airport_ident": "EGCN",
+  "frequency_mhz": 110.95
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5fb"
+  },
+  "airport_ident": "EGCN",
+  "frequency_mhz": 126.225
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5fc"
+  },
+  "airport_ident": "EGCN",
+  "frequency_mhz": 128.775
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5fd"
+  },
+  "airport_ident": "EGCS",
+  "frequency_mhz": 130.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5fe"
+  },
+  "airport_ident": "EGCT",
+  "frequency_mhz": 122.075
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca5ff"
+  },
+  "airport_ident": "EGCV",
+  "frequency_mhz": 122.45
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca600"
+  },
+  "airport_ident": "EGCW",
+  "frequency_mhz": 128
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca601"
+  },
+  "airport_ident": "EGDC",
+  "frequency_mhz": 130.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca602"
+  },
+  "airport_ident": "EGDJ",
+  "frequency_mhz": 129.975
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca603"
+  },
+  "airport_ident": "EGDJ",
+  "frequency_mhz": 122.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca604"
+  },
+  "airport_ident": "EGDM",
+  "frequency_mhz": 130
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca605"
+  },
+  "airport_ident": "EGDM",
+  "frequency_mhz": 27.572
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca606"
+  },
+  "airport_ident": "EGDM",
+  "frequency_mhz": 126.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca607"
+  },
+  "airport_ident": "EGDM",
+  "frequency_mhz": 130
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca608"
+  },
+  "airport_ident": "EGDM",
+  "frequency_mhz": 130.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca609"
+  },
+  "airport_ident": "EGDM",
+  "frequency_mhz": 130.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca60a"
+  },
+  "airport_ident": "EGDN",
+  "frequency_mhz": 128.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca60b"
+  },
+  "airport_ident": "EGDN",
+  "frequency_mhz": 128.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca60c"
+  },
+  "airport_ident": "EGDO",
+  "frequency_mhz": 134.05
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca60d"
+  },
+  "airport_ident": "EGDO",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca60e"
+  },
+  "airport_ident": "EGDR",
+  "frequency_mhz": 134.05
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca60f"
+  },
+  "airport_ident": "EGDR",
+  "frequency_mhz": 23.185
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca610"
+  },
+  "airport_ident": "EGDR",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca611"
+  },
+  "airport_ident": "EGDR",
+  "frequency_mhz": 572.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca612"
+  },
+  "airport_ident": "EGDR",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca613"
+  },
+  "airport_ident": "EGDX",
+  "frequency_mhz": 126.625
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca614"
+  },
+  "airport_ident": "EGDX",
+  "frequency_mhz": 34.045
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca615"
+  },
+  "airport_ident": "EGDX",
+  "frequency_mhz": 24.112
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca616"
+  },
+  "airport_ident": "EGDX",
+  "frequency_mhz": 132.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca617"
+  },
+  "airport_ident": "EGDX",
+  "frequency_mhz": 118.125
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca618"
+  },
+  "airport_ident": "EGDY",
+  "frequency_mhz": 127.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca619"
+  },
+  "airport_ident": "EGDY",
+  "frequency_mhz": 28.392
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca61a"
+  },
+  "airport_ident": "EGDY",
+  "frequency_mhz": 26.862
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca61b"
+  },
+  "airport_ident": "EGDY",
+  "frequency_mhz": 673.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca61c"
+  },
+  "airport_ident": "EGDY",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca61d"
+  },
+  "airport_ident": "EGEC",
+  "frequency_mhz": 125.905
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca61e"
+  },
+  "airport_ident": "EGEF",
+  "frequency_mhz": 118.025
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca61f"
+  },
+  "airport_ident": "EGEL",
+  "frequency_mhz": 125
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca620"
+  },
+  "airport_ident": "EGEN",
+  "frequency_mhz": 118.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca621"
+  },
+  "airport_ident": "EGEO",
+  "frequency_mhz": 118.055
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca622"
+  },
+  "airport_ident": "EGET",
+  "frequency_mhz": 122.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca623"
+  },
+  "airport_ident": "EGEW",
+  "frequency_mhz": 118.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca624"
+  },
+  "airport_ident": "EGEY",
+  "frequency_mhz": 123.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca625"
+  },
+  "airport_ident": "EGFA",
+  "frequency_mhz": 122.15
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca626"
+  },
+  "airport_ident": "EGFE",
+  "frequency_mhz": 122.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca627"
+  },
+  "airport_ident": "EGFF",
+  "frequency_mhz": 119.15
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca628"
+  },
+  "airport_ident": "EGFF",
+  "frequency_mhz": 125.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca629"
+  },
+  "airport_ident": "EGFF",
+  "frequency_mhz": 132.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca62a"
+  },
+  "airport_ident": "EGFF",
+  "frequency_mhz": 133.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca62b"
+  },
+  "airport_ident": "EGFF",
+  "frequency_mhz": 133.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca62c"
+  },
+  "airport_ident": "EGFH",
+  "frequency_mhz": 119.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca62d"
+  },
+  "airport_ident": "EGFP",
+  "frequency_mhz": 124.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca62e"
+  },
+  "airport_ident": "EGFP",
+  "frequency_mhz": 124.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca62f"
+  },
+  "airport_ident": "EGFP",
+  "frequency_mhz": 124.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca630"
+  },
+  "airport_ident": "EGGD",
+  "frequency_mhz": 126.025
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca631"
+  },
+  "airport_ident": "EGGD",
+  "frequency_mhz": 121.925
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca632"
+  },
+  "airport_ident": "EGGD",
+  "frequency_mhz": 136.075
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca633"
+  },
+  "airport_ident": "EGGD",
+  "frequency_mhz": 133.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca634"
+  },
+  "airport_ident": "EGGP",
+  "frequency_mhz": 119.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca635"
+  },
+  "airport_ident": "EGGP",
+  "frequency_mhz": 124.325
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca636"
+  },
+  "airport_ident": "EGGP",
+  "frequency_mhz": 121.95
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca637"
+  },
+  "airport_ident": "EGGP",
+  "frequency_mhz": 126.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca638"
+  },
+  "airport_ident": "EGGW",
+  "frequency_mhz": 129.55
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca639"
+  },
+  "airport_ident": "EGGW",
+  "frequency_mhz": 120.575
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca63a"
+  },
+  "airport_ident": "EGGW",
+  "frequency_mhz": 121.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca63b"
+  },
+  "airport_ident": "EGGW",
+  "frequency_mhz": 132.55
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca63c"
+  },
+  "airport_ident": "EGHA",
+  "frequency_mhz": 122.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca63d"
+  },
+  "airport_ident": "EGHC",
+  "frequency_mhz": 130.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca63e"
+  },
+  "airport_ident": "EGHC",
+  "frequency_mhz": 130.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca63f"
+  },
+  "airport_ident": "EGHC",
+  "frequency_mhz": 130.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca640"
+  },
+  "airport_ident": "EGHE",
+  "frequency_mhz": 123.15
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca641"
+  },
+  "airport_ident": "EGHE",
+  "frequency_mhz": 123.15
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca642"
+  },
+  "airport_ident": "EGHG",
+  "frequency_mhz": 125.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca643"
+  },
+  "airport_ident": "EGHG",
+  "frequency_mhz": 130.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca644"
+  },
+  "airport_ident": "EGHG",
+  "frequency_mhz": 125.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca645"
+  },
+  "airport_ident": "EGHH",
+  "frequency_mhz": 119.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca646"
+  },
+  "airport_ident": "EGHH",
+  "frequency_mhz": 121.95
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca647"
+  },
+  "airport_ident": "EGHH",
+  "frequency_mhz": 121.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca648"
+  },
+  "airport_ident": "EGHH",
+  "frequency_mhz": 125.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca649"
+  },
+  "airport_ident": "EGHI",
+  "frequency_mhz": 128.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca64a"
+  },
+  "airport_ident": "EGHI",
+  "frequency_mhz": 113.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca64b"
+  },
+  "airport_ident": "EGHI",
+  "frequency_mhz": 121.775
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca64c"
+  },
+  "airport_ident": "EGHI",
+  "frequency_mhz": 130.65
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca64d"
+  },
+  "airport_ident": "EGHI",
+  "frequency_mhz": 118.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca64e"
+  },
+  "airport_ident": "EGHJ",
+  "frequency_mhz": 123.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca64f"
+  },
+  "airport_ident": "EGHL",
+  "frequency_mhz": 125.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca650"
+  },
+  "airport_ident": "EGHL",
+  "frequency_mhz": 129.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca651"
+  },
+  "airport_ident": "EGHN",
+  "frequency_mhz": 123.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca652"
+  },
+  "airport_ident": "EGHO",
+  "frequency_mhz": 130.45
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca653"
+  },
+  "airport_ident": "EGHP",
+  "frequency_mhz": 129.805
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca654"
+  },
+  "airport_ident": "EGHQ",
+  "frequency_mhz": 133.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca655"
+  },
+  "airport_ident": "EGHQ",
+  "frequency_mhz": 127.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca656"
+  },
+  "airport_ident": "EGHQ",
+  "frequency_mhz": 125.55
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca657"
+  },
+  "airport_ident": "EGHQ",
+  "frequency_mhz": 121.95
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca658"
+  },
+  "airport_ident": "EGHQ",
+  "frequency_mhz": 131.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca659"
+  },
+  "airport_ident": "EGHQ",
+  "frequency_mhz": 127.925
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca65a"
+  },
+  "airport_ident": "EGHQ",
+  "frequency_mhz": 134.375
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca65b"
+  },
+  "airport_ident": "EGHR",
+  "frequency_mhz": 122.455
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca65c"
+  },
+  "airport_ident": "EGHS",
+  "frequency_mhz": 130.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca65d"
+  },
+  "airport_ident": "EGHU",
+  "frequency_mhz": 123
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca65e"
+  },
+  "airport_ident": "EGHY",
+  "frequency_mhz": 129.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca65f"
+  },
+  "airport_ident": "EGKA",
+  "frequency_mhz": 123.155
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca660"
+  },
+  "airport_ident": "EGKA",
+  "frequency_mhz": 123.155
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca661"
+  },
+  "airport_ident": "EGKA",
+  "frequency_mhz": 130.975
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca662"
+  },
+  "airport_ident": "EGKA",
+  "frequency_mhz": 125.405
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca663"
+  },
+  "airport_ident": "EGKB",
+  "frequency_mhz": 129.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca664"
+  },
+  "airport_ident": "EGKB",
+  "frequency_mhz": 135.675
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca665"
+  },
+  "airport_ident": "EGKB",
+  "frequency_mhz": 132.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca666"
+  },
+  "airport_ident": "EGKB",
+  "frequency_mhz": 134.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca667"
+  },
+  "airport_ident": "EGKH",
+  "frequency_mhz": 122
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca668"
+  },
+  "airport_ident": "EGKK",
+  "frequency_mhz": 126.825
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca669"
+  },
+  "airport_ident": "EGKK",
+  "frequency_mhz": 136.525
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca66a"
+  },
+  "airport_ident": "EGKK",
+  "frequency_mhz": 121.955
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca66b"
+  },
+  "airport_ident": "EGKK",
+  "frequency_mhz": 118.95
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca66c"
+  },
+  "airport_ident": "EGKK",
+  "frequency_mhz": 121.805
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca66d"
+  },
+  "airport_ident": "EGKK",
+  "frequency_mhz": 124.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca66e"
+  },
+  "airport_ident": "EGKL",
+  "frequency_mhz": 129.73
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca66f"
+  },
+  "airport_ident": "EGKR",
+  "frequency_mhz": 119.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca670"
+  },
+  "airport_ident": "EGLA",
+  "frequency_mhz": 122.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca671"
+  },
+  "airport_ident": "EGLC",
+  "frequency_mhz": 132.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca672"
+  },
+  "airport_ident": "EGLC",
+  "frequency_mhz": 136.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca673"
+  },
+  "airport_ident": "EGLC",
+  "frequency_mhz": 121.825
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca674"
+  },
+  "airport_ident": "EGLC",
+  "frequency_mhz": 118.075
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca675"
+  },
+  "airport_ident": "EGLD",
+  "frequency_mhz": 130.725
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca676"
+  },
+  "airport_ident": "EGLD",
+  "frequency_mhz": 130.725
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca677"
+  },
+  "airport_ident": "EGLF",
+  "frequency_mhz": 134.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca678"
+  },
+  "airport_ident": "EGLF",
+  "frequency_mhz": 128.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca679"
+  },
+  "airport_ident": "EGLF",
+  "frequency_mhz": 130.05
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca67a"
+  },
+  "airport_ident": "EGLF",
+  "frequency_mhz": 123.225
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca67b"
+  },
+  "airport_ident": "EGLF",
+  "frequency_mhz": 125.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca67c"
+  },
+  "airport_ident": "EGLF",
+  "frequency_mhz": 132.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca67d"
+  },
+  "airport_ident": "EGLF",
+  "frequency_mhz": 121.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca67e"
+  },
+  "airport_ident": "EGLF",
+  "frequency_mhz": 130.375
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca67f"
+  },
+  "airport_ident": "EGLF",
+  "frequency_mhz": 122.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca680"
+  },
+  "airport_ident": "EGLJ",
+  "frequency_mhz": 125.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca681"
+  },
+  "airport_ident": "EGLK",
+  "frequency_mhz": 122.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca682"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 113.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca683"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 115.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca684"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 121.935
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca685"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 128.075
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca686"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 121.975
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca687"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 119.725
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca688"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 120.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca689"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 127.525
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca68a"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 134.975
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca68b"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 121.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca68c"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 121.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca68d"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 121.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca68e"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 118.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca68f"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 118.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca690"
+  },
+  "airport_ident": "EGLL",
+  "frequency_mhz": 124.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca691"
+  },
+  "airport_ident": "EGLM",
+  "frequency_mhz": 122.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca692"
+  },
+  "airport_ident": "EGLM",
+  "frequency_mhz": 122.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca693"
+  },
+  "airport_ident": "EGMA",
+  "frequency_mhz": 120.925
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca694"
+  },
+  "airport_ident": "EGMA",
+  "frequency_mhz": 135.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca695"
+  },
+  "airport_ident": "EGMC",
+  "frequency_mhz": 130.775
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca696"
+  },
+  "airport_ident": "EGMC",
+  "frequency_mhz": 121.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca697"
+  },
+  "airport_ident": "EGMC",
+  "frequency_mhz": 130.775
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca698"
+  },
+  "airport_ident": "EGMC",
+  "frequency_mhz": 127.725
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca699"
+  },
+  "airport_ident": "EGMD",
+  "frequency_mhz": 120.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca69a"
+  },
+  "airport_ident": "EGMD",
+  "frequency_mhz": 129.225
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca69b"
+  },
+  "airport_ident": "EGMD",
+  "frequency_mhz": 128.525
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca69c"
+  },
+  "airport_ident": "EGMJ",
+  "frequency_mhz": 130.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca69d"
+  },
+  "airport_ident": "EGNC",
+  "frequency_mhz": 123.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca69e"
+  },
+  "airport_ident": "EGNC",
+  "frequency_mhz": 123.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca69f"
+  },
+  "airport_ident": "EGNC",
+  "frequency_mhz": 118.425
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6a0"
+  },
+  "airport_ident": "EGNC",
+  "frequency_mhz": 123.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6a1"
+  },
+  "airport_ident": "EGNE",
+  "frequency_mhz": 130.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6a2"
+  },
+  "airport_ident": "EGNF",
+  "frequency_mhz": 123.275
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6a3"
+  },
+  "airport_ident": "EGNG",
+  "frequency_mhz": 123.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6a4"
+  },
+  "airport_ident": "EGNH",
+  "frequency_mhz": 119.95
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6a5"
+  },
+  "airport_ident": "EGNH",
+  "frequency_mhz": 121.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6a6"
+  },
+  "airport_ident": "EGNH",
+  "frequency_mhz": 118.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6a7"
+  },
+  "airport_ident": "EGNI",
+  "frequency_mhz": 132.425
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6a8"
+  },
+  "airport_ident": "EGNJ",
+  "frequency_mhz": 119.13
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6a9"
+  },
+  "airport_ident": "EGNJ",
+  "frequency_mhz": 129.255
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6aa"
+  },
+  "airport_ident": "EGNJ",
+  "frequency_mhz": 124.13
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6ab"
+  },
+  "airport_ident": "EGNJ",
+  "frequency_mhz": 124.905
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6ac"
+  },
+  "airport_ident": "EGNL",
+  "frequency_mhz": 123.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6ad"
+  },
+  "airport_ident": "EGNM",
+  "frequency_mhz": 123.38
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6ae"
+  },
+  "airport_ident": "EGNM",
+  "frequency_mhz": 134.58
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6af"
+  },
+  "airport_ident": "EGNM",
+  "frequency_mhz": 118.025
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6b0"
+  },
+  "airport_ident": "EGNM",
+  "frequency_mhz": 121.805
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6b1"
+  },
+  "airport_ident": "EGNM",
+  "frequency_mhz": 110.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6b2"
+  },
+  "airport_ident": "EGNM",
+  "frequency_mhz": 120.305
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6b3"
+  },
+  "airport_ident": "EGNO",
+  "frequency_mhz": 129.525
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6b4"
+  },
+  "airport_ident": "EGNO",
+  "frequency_mhz": 121.725
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6b5"
+  },
+  "airport_ident": "EGNO",
+  "frequency_mhz": 129.525
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6b6"
+  },
+  "airport_ident": "EGNO",
+  "frequency_mhz": 130.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6b7"
+  },
+  "airport_ident": "EGNR",
+  "frequency_mhz": 120.055
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6b8"
+  },
+  "airport_ident": "EGNR",
+  "frequency_mhz": 130.015
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6b9"
+  },
+  "airport_ident": "EGNR",
+  "frequency_mhz": 125.43
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6ba"
+  },
+  "airport_ident": "EGNR",
+  "frequency_mhz": 124.955
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6bb"
+  },
+  "airport_ident": "EGNT",
+  "frequency_mhz": 124.375
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6bc"
+  },
+  "airport_ident": "EGNT",
+  "frequency_mhz": 118.375
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6bd"
+  },
+  "airport_ident": "EGNT",
+  "frequency_mhz": 121.725
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6be"
+  },
+  "airport_ident": "EGNT",
+  "frequency_mhz": 111.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6bf"
+  },
+  "airport_ident": "EGNT",
+  "frequency_mhz": 119.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6c0"
+  },
+  "airport_ident": "EGNU",
+  "frequency_mhz": 132.325
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6c1"
+  },
+  "airport_ident": "EGNV",
+  "frequency_mhz": 132.375
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6c2"
+  },
+  "airport_ident": "EGNV",
+  "frequency_mhz": 118.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6c3"
+  },
+  "airport_ident": "EGNV",
+  "frequency_mhz": 119.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6c4"
+  },
+  "airport_ident": "EGNW",
+  "frequency_mhz": 122.45
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6c5"
+  },
+  "airport_ident": "EGNW",
+  "frequency_mhz": 122.45
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6c6"
+  },
+  "airport_ident": "EGNX",
+  "frequency_mhz": 134.175
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6c7"
+  },
+  "airport_ident": "EGNX",
+  "frequency_mhz": 122.675
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6c8"
+  },
+  "airport_ident": "EGNX",
+  "frequency_mhz": 121.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6c9"
+  },
+  "airport_ident": "EGNX",
+  "frequency_mhz": 121.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6ca"
+  },
+  "airport_ident": "EGNX",
+  "frequency_mhz": 124
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6cb"
+  },
+  "airport_ident": "EGNY",
+  "frequency_mhz": 123.05
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6cc"
+  },
+  "airport_ident": "EGOD",
+  "frequency_mhz": 29.252
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6cd"
+  },
+  "airport_ident": "EGOD",
+  "frequency_mhz": 118.93
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6ce"
+  },
+  "airport_ident": "EGOE",
+  "frequency_mhz": 28.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6cf"
+  },
+  "airport_ident": "EGOE",
+  "frequency_mhz": 27.901999999999997
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6d0"
+  },
+  "airport_ident": "EGOE",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6d1"
+  },
+  "airport_ident": "EGOQ",
+  "frequency_mhz": 122.225
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6d2"
+  },
+  "airport_ident": "EGOQ",
+  "frequency_mhz": 118.95
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6d3"
+  },
+  "airport_ident": "EGOQ",
+  "frequency_mhz": 125.225
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6d4"
+  },
+  "airport_ident": "EGOQ",
+  "frequency_mhz": 119.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6d5"
+  },
+  "airport_ident": "EGOS",
+  "frequency_mhz": 126.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6d6"
+  },
+  "airport_ident": "EGOS",
+  "frequency_mhz": 28.427
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6d7"
+  },
+  "airport_ident": "EGOS",
+  "frequency_mhz": 123.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6d8"
+  },
+  "airport_ident": "EGOS",
+  "frequency_mhz": 38.945
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6d9"
+  },
+  "airport_ident": "EGOS",
+  "frequency_mhz": 120.775
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6da"
+  },
+  "airport_ident": "EGOS",
+  "frequency_mhz": 36.912
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6db"
+  },
+  "airport_ident": "EGOS",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6dc"
+  },
+  "airport_ident": "EGOV",
+  "frequency_mhz": 134.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6dd"
+  },
+  "airport_ident": "EGOV",
+  "frequency_mhz": 120.725
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6de"
+  },
+  "airport_ident": "EGOV",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6df"
+  },
+  "airport_ident": "EGOV",
+  "frequency_mhz": 125.225
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6e0"
+  },
+  "airport_ident": "EGOV",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6e1"
+  },
+  "airport_ident": "EGOW",
+  "frequency_mhz": 121
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6e2"
+  },
+  "airport_ident": "EGOW",
+  "frequency_mhz": 121
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6e3"
+  },
+  "airport_ident": "EGOW",
+  "frequency_mhz": 282.57
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6e4"
+  },
+  "airport_ident": "EGOW",
+  "frequency_mhz": 119.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6e5"
+  },
+  "airport_ident": "EGOW",
+  "frequency_mhz": 278.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6e6"
+  },
+  "airport_ident": "EGPA",
+  "frequency_mhz": 118.305
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6e7"
+  },
+  "airport_ident": "EGPA",
+  "frequency_mhz": 118.305
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6e8"
+  },
+  "airport_ident": "EGPB",
+  "frequency_mhz": 131.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6e9"
+  },
+  "airport_ident": "EGPB",
+  "frequency_mhz": 125.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6ea"
+  },
+  "airport_ident": "EGPB",
+  "frequency_mhz": 118.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6eb"
+  },
+  "airport_ident": "EGPC",
+  "frequency_mhz": 119.705
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6ec"
+  },
+  "airport_ident": "EGPC",
+  "frequency_mhz": 119.705
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6ed"
+  },
+  "airport_ident": "EGPC",
+  "frequency_mhz": 113.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6ee"
+  },
+  "airport_ident": "EGPC",
+  "frequency_mhz": 119.705
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6ef"
+  },
+  "airport_ident": "EGPD",
+  "frequency_mhz": 119.055
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6f0"
+  },
+  "airport_ident": "EGPD",
+  "frequency_mhz": 121.855
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6f1"
+  },
+  "airport_ident": "EGPD",
+  "frequency_mhz": 121.705
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6f2"
+  },
+  "airport_ident": "EGPD",
+  "frequency_mhz": 135.175
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6f3"
+  },
+  "airport_ident": "EGPD",
+  "frequency_mhz": 128.305
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6f4"
+  },
+  "airport_ident": "EGPD",
+  "frequency_mhz": 134.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6f5"
+  },
+  "airport_ident": "EGPD",
+  "frequency_mhz": 118.105
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6f6"
+  },
+  "airport_ident": "EGPE",
+  "frequency_mhz": 122.605
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6f7"
+  },
+  "airport_ident": "EGPE",
+  "frequency_mhz": 109.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6f8"
+  },
+  "airport_ident": "EGPE",
+  "frequency_mhz": 122.605
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6f9"
+  },
+  "airport_ident": "EGPE",
+  "frequency_mhz": 118.405
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6fa"
+  },
+  "airport_ident": "EGPE",
+  "frequency_mhz": 122.605
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6fb"
+  },
+  "airport_ident": "EGPF",
+  "frequency_mhz": 120.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6fc"
+  },
+  "airport_ident": "EGPF",
+  "frequency_mhz": 119.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6fd"
+  },
+  "airport_ident": "EGPF",
+  "frequency_mhz": 129.575
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6fe"
+  },
+  "airport_ident": "EGPF",
+  "frequency_mhz": 121.705
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca6ff"
+  },
+  "airport_ident": "EGPF",
+  "frequency_mhz": 118.805
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca700"
+  },
+  "airport_ident": "EGPG",
+  "frequency_mhz": 120.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca701"
+  },
+  "airport_ident": "EGPH",
+  "frequency_mhz": 121.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca702"
+  },
+  "airport_ident": "EGPH",
+  "frequency_mhz": 131.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca703"
+  },
+  "airport_ident": "EGPH",
+  "frequency_mhz": 121.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca704"
+  },
+  "airport_ident": "EGPH",
+  "frequency_mhz": 118.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca705"
+  },
+  "airport_ident": "EGPI",
+  "frequency_mhz": 123.155
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca706"
+  },
+  "airport_ident": "EGPJ",
+  "frequency_mhz": 130.455
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca707"
+  },
+  "airport_ident": "EGPK",
+  "frequency_mhz": 120.55
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca708"
+  },
+  "airport_ident": "EGPK",
+  "frequency_mhz": 121.125
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca709"
+  },
+  "airport_ident": "EGPK",
+  "frequency_mhz": 129.45
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca70a"
+  },
+  "airport_ident": "EGPK",
+  "frequency_mhz": 118.15
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca70b"
+  },
+  "airport_ident": "EGPL",
+  "frequency_mhz": 119.205
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca70c"
+  },
+  "airport_ident": "EGPL",
+  "frequency_mhz": 113.95
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca70d"
+  },
+  "airport_ident": "EGPL",
+  "frequency_mhz": 119.205
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca70e"
+  },
+  "airport_ident": "EGPM",
+  "frequency_mhz": 123.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca70f"
+  },
+  "airport_ident": "EGPM",
+  "frequency_mhz": 123.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca710"
+  },
+  "airport_ident": "EGPN",
+  "frequency_mhz": 122.905
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca711"
+  },
+  "airport_ident": "EGPN",
+  "frequency_mhz": 119.33
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca712"
+  },
+  "airport_ident": "EGPN",
+  "frequency_mhz": 122.905
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca713"
+  },
+  "airport_ident": "EGPO",
+  "frequency_mhz": 119.48
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca714"
+  },
+  "airport_ident": "EGPO",
+  "frequency_mhz": 119.48
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca715"
+  },
+  "airport_ident": "EGPO",
+  "frequency_mhz": 115.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca716"
+  },
+  "airport_ident": "EGPO",
+  "frequency_mhz": 119.48
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca717"
+  },
+  "airport_ident": "EGPR",
+  "frequency_mhz": 118.075
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca718"
+  },
+  "airport_ident": "EGPT",
+  "frequency_mhz": 121.08
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca719"
+  },
+  "airport_ident": "EGPU",
+  "frequency_mhz": 122.705
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca71a"
+  },
+  "airport_ident": "EGPW",
+  "frequency_mhz": 130.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca71b"
+  },
+  "airport_ident": "EGPW",
+  "frequency_mhz": 130.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca71c"
+  },
+  "airport_ident": "EGQK",
+  "frequency_mhz": 123.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca71d"
+  },
+  "airport_ident": "EGQK",
+  "frequency_mhz": 119.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca71e"
+  },
+  "airport_ident": "EGQK",
+  "frequency_mhz": 38.94
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca71f"
+  },
+  "airport_ident": "EGQK",
+  "frequency_mhz": 27.897
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca720"
+  },
+  "airport_ident": "EGQK",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca721"
+  },
+  "airport_ident": "EGQL",
+  "frequency_mhz": 123.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca722"
+  },
+  "airport_ident": "EGQL",
+  "frequency_mhz": 36.925
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca723"
+  },
+  "airport_ident": "EGQL",
+  "frequency_mhz": 126.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca724"
+  },
+  "airport_ident": "EGQL",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca725"
+  },
+  "airport_ident": "EGQL",
+  "frequency_mhz": 37.007
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca726"
+  },
+  "airport_ident": "EGQL",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca727"
+  },
+  "airport_ident": "EGQS",
+  "frequency_mhz": 123.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca728"
+  },
+  "airport_ident": "EGQS",
+  "frequency_mhz": 26.476999999999997
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca729"
+  },
+  "airport_ident": "EGQS",
+  "frequency_mhz": 119.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca72a"
+  },
+  "airport_ident": "EGQS",
+  "frequency_mhz": 123.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca72b"
+  },
+  "airport_ident": "EGQS",
+  "frequency_mhz": 118.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca72c"
+  },
+  "airport_ident": "EGQS",
+  "frequency_mhz": 36.93
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca72d"
+  },
+  "airport_ident": "EGQS",
+  "frequency_mhz": 118.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca72e"
+  },
+  "airport_ident": "EGQS",
+  "frequency_mhz": 118.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca72f"
+  },
+  "airport_ident": "EGSC",
+  "frequency_mhz": 123.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca730"
+  },
+  "airport_ident": "EGSC",
+  "frequency_mhz": 134.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca731"
+  },
+  "airport_ident": "EGSC",
+  "frequency_mhz": 124.975
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca732"
+  },
+  "airport_ident": "EGSC",
+  "frequency_mhz": 122.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca733"
+  },
+  "airport_ident": "EGSF",
+  "frequency_mhz": 129.725
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca734"
+  },
+  "airport_ident": "EGSG",
+  "frequency_mhz": 122.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca735"
+  },
+  "airport_ident": "EGSH",
+  "frequency_mhz": 119.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca736"
+  },
+  "airport_ident": "EGSH",
+  "frequency_mhz": 128.625
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca737"
+  },
+  "airport_ident": "EGSH",
+  "frequency_mhz": 128.325
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca738"
+  },
+  "airport_ident": "EGSH",
+  "frequency_mhz": 124.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca739"
+  },
+  "airport_ident": "EGSJ",
+  "frequency_mhz": 122.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca73a"
+  },
+  "airport_ident": "EGSL",
+  "frequency_mhz": 130.555
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca73b"
+  },
+  "airport_ident": "EGSL",
+  "frequency_mhz": 130.555
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca73c"
+  },
+  "airport_ident": "EGSM",
+  "frequency_mhz": 120.375
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca73d"
+  },
+  "airport_ident": "EGSN",
+  "frequency_mhz": 124.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca73e"
+  },
+  "airport_ident": "EGSN",
+  "frequency_mhz": 129.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca73f"
+  },
+  "airport_ident": "EGSO",
+  "frequency_mhz": 122.775
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca740"
+  },
+  "airport_ident": "EGSO",
+  "frequency_mhz": 125.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca741"
+  },
+  "airport_ident": "EGSP",
+  "frequency_mhz": 120.325
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca742"
+  },
+  "airport_ident": "EGSP",
+  "frequency_mhz": 122.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca743"
+  },
+  "airport_ident": "EGSQ",
+  "frequency_mhz": 118.15
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca744"
+  },
+  "airport_ident": "EGSR",
+  "frequency_mhz": 122.425
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca745"
+  },
+  "airport_ident": "EGSS",
+  "frequency_mhz": 120.625
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca746"
+  },
+  "airport_ident": "EGSS",
+  "frequency_mhz": 127.175
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca747"
+  },
+  "airport_ident": "EGSS",
+  "frequency_mhz": 121.95
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca748"
+  },
+  "airport_ident": "EGSS",
+  "frequency_mhz": 136.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca749"
+  },
+  "airport_ident": "EGSS",
+  "frequency_mhz": 121.725
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca74a"
+  },
+  "airport_ident": "EGSS",
+  "frequency_mhz": 136.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca74b"
+  },
+  "airport_ident": "EGSS",
+  "frequency_mhz": 123.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca74c"
+  },
+  "airport_ident": "EGST",
+  "frequency_mhz": 130.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca74d"
+  },
+  "airport_ident": "EGSU",
+  "frequency_mhz": 122.075
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca74e"
+  },
+  "airport_ident": "EGSV",
+  "frequency_mhz": 124.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca74f"
+  },
+  "airport_ident": "EGSX",
+  "frequency_mhz": 123.525
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca750"
+  },
+  "airport_ident": "EGTB",
+  "frequency_mhz": 121.77
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca751"
+  },
+  "airport_ident": "EGTB",
+  "frequency_mhz": 126.55
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca752"
+  },
+  "airport_ident": "EGTC",
+  "frequency_mhz": 122.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca753"
+  },
+  "airport_ident": "EGTC",
+  "frequency_mhz": 121.875
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca754"
+  },
+  "airport_ident": "EGTC",
+  "frequency_mhz": 122.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca755"
+  },
+  "airport_ident": "EGTC",
+  "frequency_mhz": 134.925
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca756"
+  },
+  "airport_ident": "EGTD",
+  "frequency_mhz": 119.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca757"
+  },
+  "airport_ident": "EGTE",
+  "frequency_mhz": 128.975
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca758"
+  },
+  "airport_ident": "EGTE",
+  "frequency_mhz": 119.325
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca759"
+  },
+  "airport_ident": "EGTE",
+  "frequency_mhz": 123.57
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca75a"
+  },
+  "airport_ident": "EGTE",
+  "frequency_mhz": 119.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca75b"
+  },
+  "airport_ident": "EGTF",
+  "frequency_mhz": 123.43
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca75c"
+  },
+  "airport_ident": "EGTF",
+  "frequency_mhz": 123.43
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca75d"
+  },
+  "airport_ident": "EGTK",
+  "frequency_mhz": 125.325
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca75e"
+  },
+  "airport_ident": "EGTK",
+  "frequency_mhz": 127.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca75f"
+  },
+  "airport_ident": "EGTK",
+  "frequency_mhz": 136.225
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca760"
+  },
+  "airport_ident": "EGTK",
+  "frequency_mhz": 121.95
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca761"
+  },
+  "airport_ident": "EGTK",
+  "frequency_mhz": 124.27
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca762"
+  },
+  "airport_ident": "EGTK",
+  "frequency_mhz": 133.425
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca763"
+  },
+  "airport_ident": "EGTK",
+  "frequency_mhz": 133.425
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca764"
+  },
+  "airport_ident": "EGTO",
+  "frequency_mhz": 122.255
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca765"
+  },
+  "airport_ident": "EGTP",
+  "frequency_mhz": 119.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca766"
+  },
+  "airport_ident": "EGTR",
+  "frequency_mhz": 122.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca767"
+  },
+  "airport_ident": "EGTR",
+  "frequency_mhz": 122.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca768"
+  },
+  "airport_ident": "EGTU",
+  "frequency_mhz": 123.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca769"
+  },
+  "airport_ident": "EGTW",
+  "frequency_mhz": 122.775
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca76a"
+  },
+  "airport_ident": "EGUB",
+  "frequency_mhz": 376.65
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca76b"
+  },
+  "airport_ident": "EGUB",
+  "frequency_mhz": 136.45
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca76c"
+  },
+  "airport_ident": "EGUB",
+  "frequency_mhz": 282.525
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca76d"
+  },
+  "airport_ident": "EGUB",
+  "frequency_mhz": 356.125
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca76e"
+  },
+  "airport_ident": "EGUB",
+  "frequency_mhz": 121.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca76f"
+  },
+  "airport_ident": "EGUB",
+  "frequency_mhz": 127.15
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca770"
+  },
+  "airport_ident": "EGUB",
+  "frequency_mhz": 318.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca771"
+  },
+  "airport_ident": "EGUB",
+  "frequency_mhz": 120.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca772"
+  },
+  "airport_ident": "EGUD",
+  "frequency_mhz": 121.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca773"
+  },
+  "airport_ident": "EGUL",
+  "frequency_mhz": 136.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca774"
+  },
+  "airport_ident": "EGUL",
+  "frequency_mhz": 142.82
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca775"
+  },
+  "airport_ident": "EGUL",
+  "frequency_mhz": 35.672
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca776"
+  },
+  "airport_ident": "EGUL",
+  "frequency_mhz": 27.776999999999997
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca777"
+  },
+  "airport_ident": "EGUL",
+  "frequency_mhz": 25.03
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca778"
+  },
+  "airport_ident": "EGUL",
+  "frequency_mhz": 375.45
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca779"
+  },
+  "airport_ident": "EGUL",
+  "frequency_mhz": 28.441999999999997
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca77a"
+  },
+  "airport_ident": "EGUL",
+  "frequency_mhz": 37.98
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca77b"
+  },
+  "airport_ident": "EGUL",
+  "frequency_mhz": 24.447
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca77c"
+  },
+  "airport_ident": "EGUL",
+  "frequency_mhz": 128.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca77d"
+  },
+  "airport_ident": "EGUL",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca77e"
+  },
+  "airport_ident": "EGUL",
+  "frequency_mhz": 338.92
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca77f"
+  },
+  "airport_ident": "EGUN",
+  "frequency_mhz": 136.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca780"
+  },
+  "airport_ident": "EGUN",
+  "frequency_mhz": 37.55
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca781"
+  },
+  "airport_ident": "EGUN",
+  "frequency_mhz": 27.776999999999997
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca782"
+  },
+  "airport_ident": "EGUN",
+  "frequency_mhz": 25.03
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca783"
+  },
+  "airport_ident": "EGUN",
+  "frequency_mhz": 121.675
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca784"
+  },
+  "airport_ident": "EGUN",
+  "frequency_mhz": 131.975
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca785"
+  },
+  "airport_ident": "EGUN",
+  "frequency_mhz": 28.441999999999997
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca786"
+  },
+  "airport_ident": "EGUN",
+  "frequency_mhz": 31.355
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca787"
+  },
+  "airport_ident": "EGUN",
+  "frequency_mhz": 131.975
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca788"
+  },
+  "airport_ident": "EGUN",
+  "frequency_mhz": 122.55
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca789"
+  },
+  "airport_ident": "EGUW",
+  "frequency_mhz": 125.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca78a"
+  },
+  "airport_ident": "EGUW",
+  "frequency_mhz": 123.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca78b"
+  },
+  "airport_ident": "EGUW",
+  "frequency_mhz": 123.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca78c"
+  },
+  "airport_ident": "EGUW",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca78d"
+  },
+  "airport_ident": "EGUY",
+  "frequency_mhz": 134.05
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca78e"
+  },
+  "airport_ident": "EGUY",
+  "frequency_mhz": 369.52
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca78f"
+  },
+  "airport_ident": "EGUY",
+  "frequency_mhz": 279.15
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca790"
+  },
+  "airport_ident": "EGUY",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca791"
+  },
+  "airport_ident": "EGUY",
+  "frequency_mhz": 278.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca792"
+  },
+  "airport_ident": "EGUY",
+  "frequency_mhz": 119.975
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca793"
+  },
+  "airport_ident": "EGUY",
+  "frequency_mhz": 126.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca794"
+  },
+  "airport_ident": "EGVA",
+  "frequency_mhz": 119
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca795"
+  },
+  "airport_ident": "EGVA",
+  "frequency_mhz": 124.275
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca796"
+  },
+  "airport_ident": "EGVA",
+  "frequency_mhz": 133.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca797"
+  },
+  "airport_ident": "EGVA",
+  "frequency_mhz": 234.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca798"
+  },
+  "airport_ident": "EGVA",
+  "frequency_mhz": 25.775
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca799"
+  },
+  "airport_ident": "EGVA",
+  "frequency_mhz": 233.47
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca79a"
+  },
+  "airport_ident": "EGVA",
+  "frequency_mhz": 119.15
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca79b"
+  },
+  "airport_ident": "EGVA",
+  "frequency_mhz": 338.22
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca79c"
+  },
+  "airport_ident": "EGVN",
+  "frequency_mhz": 127.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca79d"
+  },
+  "airport_ident": "EGVN",
+  "frequency_mhz": 126.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca79e"
+  },
+  "airport_ident": "EGVN",
+  "frequency_mhz": 124.275
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca79f"
+  },
+  "airport_ident": "EGVN",
+  "frequency_mhz": 127.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7a0"
+  },
+  "airport_ident": "EGVN",
+  "frequency_mhz": 121.725
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7a1"
+  },
+  "airport_ident": "EGVN",
+  "frequency_mhz": 124.275
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7a2"
+  },
+  "airport_ident": "EGVN",
+  "frequency_mhz": 135.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7a3"
+  },
+  "airport_ident": "EGVN",
+  "frequency_mhz": 133.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7a4"
+  },
+  "airport_ident": "EGVN",
+  "frequency_mhz": 123.725
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7a5"
+  },
+  "airport_ident": "EGVN",
+  "frequency_mhz": 123.55
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7a6"
+  },
+  "airport_ident": "EGVN",
+  "frequency_mhz": 119
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7a7"
+  },
+  "airport_ident": "EGVO",
+  "frequency_mhz": 131.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7a8"
+  },
+  "airport_ident": "EGVO",
+  "frequency_mhz": 234.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7a9"
+  },
+  "airport_ident": "EGVO",
+  "frequency_mhz": 379.37
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7aa"
+  },
+  "airport_ident": "EGVO",
+  "frequency_mhz": 24.101999999999997
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7ab"
+  },
+  "airport_ident": "EGVO",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7ac"
+  },
+  "airport_ident": "EGVO",
+  "frequency_mhz": 125.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7ad"
+  },
+  "airport_ident": "EGVO",
+  "frequency_mhz": 123.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7ae"
+  },
+  "airport_ident": "EGVO",
+  "frequency_mhz": 278.22
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7af"
+  },
+  "airport_ident": "EGVO",
+  "frequency_mhz": 385.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7b0"
+  },
+  "airport_ident": "EGVO",
+  "frequency_mhz": 386.77
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7b1"
+  },
+  "airport_ident": "EGVO",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7b2"
+  },
+  "airport_ident": "EGVO",
+  "frequency_mhz": 257.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7b3"
+  },
+  "airport_ident": "EGVO",
+  "frequency_mhz": 258.72
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7b4"
+  },
+  "airport_ident": "EGVP",
+  "frequency_mhz": 280.62
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7b5"
+  },
+  "airport_ident": "EGVP",
+  "frequency_mhz": 118.275
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7b6"
+  },
+  "airport_ident": "EGVP",
+  "frequency_mhz": 118.275
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7b7"
+  },
+  "airport_ident": "EGVP",
+  "frequency_mhz": 118.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7b8"
+  },
+  "airport_ident": "EGVP",
+  "frequency_mhz": 357.02
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7b9"
+  },
+  "airport_ident": "EGWC",
+  "frequency_mhz": 135.875
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7ba"
+  },
+  "airport_ident": "EGWC",
+  "frequency_mhz": 376.42
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7bb"
+  },
+  "airport_ident": "EGWC",
+  "frequency_mhz": 128.65
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7bc"
+  },
+  "airport_ident": "EGWC",
+  "frequency_mhz": 241.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7bd"
+  },
+  "airport_ident": "EGWC",
+  "frequency_mhz": 28.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7be"
+  },
+  "airport_ident": "EGWC",
+  "frequency_mhz": 128.65
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7bf"
+  },
+  "airport_ident": "EGWC",
+  "frequency_mhz": 378.65
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7c0"
+  },
+  "airport_ident": "EGWE",
+  "frequency_mhz": 121.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7c1"
+  },
+  "airport_ident": "EGWN",
+  "frequency_mhz": 130.425
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7c2"
+  },
+  "airport_ident": "EGWU",
+  "frequency_mhz": 126.45
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7c3"
+  },
+  "airport_ident": "EGWU",
+  "frequency_mhz": 125.125
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7c4"
+  },
+  "airport_ident": "EGWU",
+  "frequency_mhz": 300.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7c5"
+  },
+  "airport_ident": "EGWU",
+  "frequency_mhz": 120.325
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7c6"
+  },
+  "airport_ident": "EGWU",
+  "frequency_mhz": 129.125
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7c7"
+  },
+  "airport_ident": "EGWU",
+  "frequency_mhz": 130.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7c8"
+  },
+  "airport_ident": "EGWU",
+  "frequency_mhz": 121.575
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7c9"
+  },
+  "airport_ident": "EGWU",
+  "frequency_mhz": 132.65
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7ca"
+  },
+  "airport_ident": "EGWU",
+  "frequency_mhz": 125.875
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7cb"
+  },
+  "airport_ident": "EGWU",
+  "frequency_mhz": 120.675
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7cc"
+  },
+  "airport_ident": "EGWU",
+  "frequency_mhz": 281.175
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7cd"
+  },
+  "airport_ident": "EGXC",
+  "frequency_mhz": 120.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7ce"
+  },
+  "airport_ident": "EGXC",
+  "frequency_mhz": 282.72
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7cf"
+  },
+  "airport_ident": "EGXC",
+  "frequency_mhz": 280.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7d0"
+  },
+  "airport_ident": "EGXC",
+  "frequency_mhz": 27.776999999999997
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7d1"
+  },
+  "airport_ident": "EGXC",
+  "frequency_mhz": 376.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7d2"
+  },
+  "airport_ident": "EGXC",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7d3"
+  },
+  "airport_ident": "EGXC",
+  "frequency_mhz": 279.7
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7d4"
+  },
+  "airport_ident": "EGXC",
+  "frequency_mhz": 23.467
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7d5"
+  },
+  "airport_ident": "EGXC",
+  "frequency_mhz": 124.675
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7d6"
+  },
+  "airport_ident": "EGXD",
+  "frequency_mhz": 130.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7d7"
+  },
+  "airport_ident": "EGXD",
+  "frequency_mhz": 125
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7d8"
+  },
+  "airport_ident": "EGXD",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7d9"
+  },
+  "airport_ident": "EGXD",
+  "frequency_mhz": 242.25
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7da"
+  },
+  "airport_ident": "EGXD",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7db"
+  },
+  "airport_ident": "EGXD",
+  "frequency_mhz": 278.225
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7dc"
+  },
+  "airport_ident": "EGXD",
+  "frequency_mhz": 371.97
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7dd"
+  },
+  "airport_ident": "EGXE",
+  "frequency_mhz": 123.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7de"
+  },
+  "airport_ident": "EGXE",
+  "frequency_mhz": 127.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7df"
+  },
+  "airport_ident": "EGXE",
+  "frequency_mhz": 386.57
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7e0"
+  },
+  "airport_ident": "EGXE",
+  "frequency_mhz": 369.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7e1"
+  },
+  "airport_ident": "EGXE",
+  "frequency_mhz": 379.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7e2"
+  },
+  "airport_ident": "EGXE",
+  "frequency_mhz": 127.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7e3"
+  },
+  "airport_ident": "EGXE",
+  "frequency_mhz": 259.025
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7e4"
+  },
+  "airport_ident": "EGXE",
+  "frequency_mhz": 120.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7e5"
+  },
+  "airport_ident": "EGXE",
+  "frequency_mhz": 368.92
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7e6"
+  },
+  "airport_ident": "EGXG",
+  "frequency_mhz": 126.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7e7"
+  },
+  "airport_ident": "EGXH",
+  "frequency_mhz": 123.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7e8"
+  },
+  "airport_ident": "EGXH",
+  "frequency_mhz": 128.9
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7e9"
+  },
+  "airport_ident": "EGXH",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7ea"
+  },
+  "airport_ident": "EGXH",
+  "frequency_mhz": 278.62
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7eb"
+  },
+  "airport_ident": "EGXP",
+  "frequency_mhz": 250.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7ec"
+  },
+  "airport_ident": "EGXP",
+  "frequency_mhz": 308.625
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7ed"
+  },
+  "airport_ident": "EGXP",
+  "frequency_mhz": 29.997
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7ee"
+  },
+  "airport_ident": "EGXP",
+  "frequency_mhz": 377.075
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7ef"
+  },
+  "airport_ident": "EGXP",
+  "frequency_mhz": 278.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7f0"
+  },
+  "airport_ident": "EGXP",
+  "frequency_mhz": 241.425
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7f1"
+  },
+  "airport_ident": "EGXP",
+  "frequency_mhz": 241.825
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7f2"
+  },
+  "airport_ident": "EGXP",
+  "frequency_mhz": 281.32
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7f3"
+  },
+  "airport_ident": "EGXT",
+  "frequency_mhz": 130.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7f4"
+  },
+  "airport_ident": "EGXT",
+  "frequency_mhz": 242.47
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7f5"
+  },
+  "airport_ident": "EGXT",
+  "frequency_mhz": 29.997
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7f6"
+  },
+  "airport_ident": "EGXT",
+  "frequency_mhz": 278.45
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7f7"
+  },
+  "airport_ident": "EGXT",
+  "frequency_mhz": 369.22
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7f8"
+  },
+  "airport_ident": "EGXT",
+  "frequency_mhz": 125.525
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7f9"
+  },
+  "airport_ident": "EGXT",
+  "frequency_mhz": 125.525
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7fa"
+  },
+  "airport_ident": "EGXT",
+  "frequency_mhz": 372.22
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7fb"
+  },
+  "airport_ident": "EGXU",
+  "frequency_mhz": 235.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7fc"
+  },
+  "airport_ident": "EGXU",
+  "frequency_mhz": 118.55
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7fd"
+  },
+  "airport_ident": "EGXU",
+  "frequency_mhz": 118.55
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7fe"
+  },
+  "airport_ident": "EGXU",
+  "frequency_mhz": 372.12
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca7ff"
+  },
+  "airport_ident": "EGXU",
+  "frequency_mhz": 283.725
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca800"
+  },
+  "airport_ident": "EGXU",
+  "frequency_mhz": 118.55
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca801"
+  },
+  "airport_ident": "EGXU",
+  "frequency_mhz": 275.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca802"
+  },
+  "airport_ident": "EGXU",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca803"
+  },
+  "airport_ident": "EGXU",
+  "frequency_mhz": 278.32
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca804"
+  },
+  "airport_ident": "EGXU",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca805"
+  },
+  "airport_ident": "EGXU",
+  "frequency_mhz": 240.82
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca806"
+  },
+  "airport_ident": "EGXW",
+  "frequency_mhz": 250.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca807"
+  },
+  "airport_ident": "EGXW",
+  "frequency_mhz": 29.166999999999998
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca808"
+  },
+  "airport_ident": "EGXW",
+  "frequency_mhz": 27.776999999999997
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca809"
+  },
+  "airport_ident": "EGXW",
+  "frequency_mhz": 123.3
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca80a"
+  },
+  "airport_ident": "EGXW",
+  "frequency_mhz": 342.12
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca80b"
+  },
+  "airport_ident": "EGXW",
+  "frequency_mhz": 127.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca80c"
+  },
+  "airport_ident": "EGXW",
+  "frequency_mhz": 386.625
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca80d"
+  },
+  "airport_ident": "EGXW",
+  "frequency_mhz": 256.67
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca80e"
+  },
+  "airport_ident": "EGXY",
+  "frequency_mhz": 125.425
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca80f"
+  },
+  "airport_ident": "EGXZ",
+  "frequency_mhz": 125
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca810"
+  },
+  "airport_ident": "EGXZ",
+  "frequency_mhz": 293.775
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca811"
+  },
+  "airport_ident": "EGXZ",
+  "frequency_mhz": 255.6
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca812"
+  },
+  "airport_ident": "EGXZ",
+  "frequency_mhz": 241.875
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca813"
+  },
+  "airport_ident": "EGXZ",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca814"
+  },
+  "airport_ident": "EGXZ",
+  "frequency_mhz": 379.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca815"
+  },
+  "airport_ident": "EGYD",
+  "frequency_mhz": 119.375
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca816"
+  },
+  "airport_ident": "EGYD",
+  "frequency_mhz": 280.775
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca817"
+  },
+  "airport_ident": "EGYD",
+  "frequency_mhz": 135.675
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca818"
+  },
+  "airport_ident": "EGYD",
+  "frequency_mhz": 233.628
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca819"
+  },
+  "airport_ident": "EGYD",
+  "frequency_mhz": 27.776999999999997
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca81a"
+  },
+  "airport_ident": "EGYD",
+  "frequency_mhz": 119.375
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca81b"
+  },
+  "airport_ident": "EGYD",
+  "frequency_mhz": 275.675
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca81c"
+  },
+  "airport_ident": "EGYD",
+  "frequency_mhz": 36.92
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca81d"
+  },
+  "airport_ident": "EGYD",
+  "frequency_mhz": 240.425
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca81e"
+  },
+  "airport_ident": "EGYD",
+  "frequency_mhz": 125.05
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca81f"
+  },
+  "airport_ident": "EGYD",
+  "frequency_mhz": 268.625
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca820"
+  },
+  "airport_ident": "EGYE",
+  "frequency_mhz": 28.076999999999998
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca821"
+  },
+  "airport_ident": "EGYE",
+  "frequency_mhz": 124.2
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca822"
+  },
+  "airport_ident": "EGYE",
+  "frequency_mhz": 293.45
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca823"
+  },
+  "airport_ident": "EGYE",
+  "frequency_mhz": 119.375
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca824"
+  },
+  "airport_ident": "EGYE",
+  "frequency_mhz": 355.95
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca825"
+  },
+  "airport_ident": "EGYE",
+  "frequency_mhz": 389.45
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca826"
+  },
+  "airport_ident": "EGYE",
+  "frequency_mhz": 120.425
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca827"
+  },
+  "airport_ident": "EGYE",
+  "frequency_mhz": 281.225
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca828"
+  },
+  "airport_ident": "EGYM",
+  "frequency_mhz": 124.15
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca829"
+  },
+  "airport_ident": "EGYM",
+  "frequency_mhz": 233.075
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca82a"
+  },
+  "airport_ident": "EGYM",
+  "frequency_mhz": 277.225
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca82b"
+  },
+  "airport_ident": "EGYM",
+  "frequency_mhz": 124.15
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca82c"
+  },
+  "airport_ident": "EGYM",
+  "frequency_mhz": 377.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca82d"
+  },
+  "airport_ident": "EGYM",
+  "frequency_mhz": 389.4
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca82e"
+  },
+  "airport_ident": "EGYM",
+  "frequency_mhz": 284
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca82f"
+  },
+  "airport_ident": "EGYM",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca830"
+  },
+  "airport_ident": "EGYM",
+  "frequency_mhz": 281.15
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca831"
+  },
+  "airport_ident": "EGYO",
+  "frequency_mhz": 120.15
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca832"
+  },
+  "airport_ident": "GB-0007",
+  "frequency_mhz": 129.875
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca833"
+  },
+  "airport_ident": "GB-0008",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca834"
+  },
+  "airport_ident": "GB-0026",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca835"
+  },
+  "airport_ident": "GB-0038",
+  "frequency_mhz": 122.85
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca836"
+  },
+  "airport_ident": "GB-0038",
+  "frequency_mhz": 124.375
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca837"
+  },
+  "airport_ident": "GB-0044",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca838"
+  },
+  "airport_ident": "GB-0045",
+  "frequency_mhz": 129.825
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca839"
+  },
+  "airport_ident": "GB-0045",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca83a"
+  },
+  "airport_ident": "GB-0046",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca83b"
+  },
+  "airport_ident": "GB-0047",
+  "frequency_mhz": 129.825
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca83c"
+  },
+  "airport_ident": "GB-0048",
+  "frequency_mhz": 122.75
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca83d"
+  },
+  "airport_ident": "GB-0048",
+  "frequency_mhz": 135.48
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca83e"
+  },
+  "airport_ident": "GB-0049",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca83f"
+  },
+  "airport_ident": "GB-0050",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca840"
+  },
+  "airport_ident": "GB-0051",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca841"
+  },
+  "airport_ident": "GB-0052",
+  "frequency_mhz": 123.5
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca842"
+  },
+  "airport_ident": "GB-0058",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca843"
+  },
+  "airport_ident": "GB-0062",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca844"
+  },
+  "airport_ident": "GB-0063",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca845"
+  },
+  "airport_ident": "GB-0064",
+  "frequency_mhz": 122.525
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca846"
+  },
+  "airport_ident": "GB-0065",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca847"
+  },
+  "airport_ident": "GB-0068",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca848"
+  },
+  "airport_ident": "GB-0073",
+  "frequency_mhz": 119.45
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca849"
+  },
+  "airport_ident": "GB-0075",
+  "frequency_mhz": 119.625
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca84a"
+  },
+  "airport_ident": "GB-0146",
+  "frequency_mhz": 123.165
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca84b"
+  },
+  "airport_ident": "GB-0157",
+  "frequency_mhz": 134.025
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca84c"
+  },
+  "airport_ident": "GB-0177",
+  "frequency_mhz": 123.205
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca84d"
+  },
+  "airport_ident": "GB-0180",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca84e"
+  },
+  "airport_ident": "GB-0201",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca84f"
+  },
+  "airport_ident": "GB-0202",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca850"
+  },
+  "airport_ident": "GB-0203",
+  "frequency_mhz": 129.825
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca851"
+  },
+  "airport_ident": "GB-0204",
+  "frequency_mhz": 129.825
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca852"
+  },
+  "airport_ident": "GB-0205",
+  "frequency_mhz": 130.38
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca853"
+  },
+  "airport_ident": "GB-0208",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca854"
+  },
+  "airport_ident": "GB-0240",
+  "frequency_mhz": 130.43
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca855"
+  },
+  "airport_ident": "GB-0248",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca856"
+  },
+  "airport_ident": "GB-0279",
+  "frequency_mhz": 129.825
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca857"
+  },
+  "airport_ident": "GB-0286",
+  "frequency_mhz": 130.575
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca858"
+  },
+  "airport_ident": "GB-0316",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca859"
+  },
+  "airport_ident": "GB-0341",
+  "frequency_mhz": 122.075
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca85a"
+  },
+  "airport_ident": "GB-0357",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca85b"
+  },
+  "airport_ident": "GB-0365",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca85c"
+  },
+  "airport_ident": "GB-0368",
+  "frequency_mhz": 129.825
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca85d"
+  },
+  "airport_ident": "GB-0369",
+  "frequency_mhz": 135.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca85e"
+  },
+  "airport_ident": "GB-0440",
+  "frequency_mhz": 129.825
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca85f"
+  },
+  "airport_ident": "GB-0464",
+  "frequency_mhz": 135.48
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca860"
+  },
+  "airport_ident": "GB-0577",
+  "frequency_mhz": 132.475
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca861"
+  },
+  "airport_ident": "GB-0978",
+  "frequency_mhz": 122.455
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca862"
+  },
+  "airport_ident": "GB-DOC",
+  "frequency_mhz": 119.35
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca863"
+  },
+  "airport_ident": "GB-ULL",
+  "frequency_mhz": 128.8
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca864"
+  },
+  "airport_ident": "LCRA",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca865"
+  },
+  "airport_ident": "LCRA",
+  "frequency_mhz": 28.82
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca866"
+  },
+  "airport_ident": "LCRA",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca867"
+  },
+  "airport_ident": "LCRA",
+  "frequency_mhz": 26.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca868"
+  },
+  "airport_ident": "LCRA",
+  "frequency_mhz": 23.405
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca869"
+  },
+  "airport_ident": "LCRA",
+  "frequency_mhz": 122.1
+},{
+  "_id": {
+    "$oid": "62caf28d066826a29c6ca86a"
+  },
+  "airport_ident": "XPLO",
+  "frequency_mhz": 131.91
+}]
