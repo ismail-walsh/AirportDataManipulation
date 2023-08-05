@@ -34,11 +34,13 @@ The client initially wants the application to perform the following actions on t
 5.	Determine if there is any significant correlation between the communication frequencies used by the 3 different categories of airport. ‘Are some frequencies used more than others?’. You will need to select an appropriate visualisation to demonstrate this.
    
 ## Non-functional requirements
-  •	The GUI interface provides appropriate feedback to confirm or deny a user’s actions
-  •	The application manages internal and user-generated errors
+  - The GUI interface provides appropriate feedback to confirm or deny a user’s actions
+  - The application manages internal and user-generated errors
+    
 ## Technical requirements 
-  •	The application is built using Python 3.7.* 
-  •	The application uses one or more of the advanced APIs introduced on this module such as: NumPy, pandas, Seaborn, Matplotlib. It should NOT        use alternative APIs for this functionality, however Python core libraries can be used to support where applicable, such as support for a         database. 
-  •	The application runs within the anaconda environment using a Jupyter notebook
-  •	The application or its parts do not run concurrently, do NOT use Python threads
+  - The application is built using Python 3.7.*
+  - The application uses one or more of the advanced APIs introduced on this module such as: NumPy, pandas, Seaborn, Matplotlib. It should NOT        use alternative APIs for this functionality, however Python core libraries can be used to support where applicable, such as support for a         database.
+  - The application runs within the anaconda environment using a Jupyter notebook
+  - The application or its parts do not run concurrently, do NOT use Python threads
+
 The requirements specified here are the constraints within which you need to produce your development. They are not negotiable with the client.  
